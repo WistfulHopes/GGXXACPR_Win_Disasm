@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbb744
+size = 0x1e
+name = "bad_typeid"
+artifact_type = "Function"
+
+[header]
+name = "bad_typeid"
+addr = 0xbb744
+
+[header.args]
