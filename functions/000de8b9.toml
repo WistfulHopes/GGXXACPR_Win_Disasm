@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xde8b9
+size = 0xe1
+name = "getScopedName"
+artifact_type = "Function"
+
+[header]
+name = "getScopedName"
+addr = 0xde8b9
+
+[header.args]
