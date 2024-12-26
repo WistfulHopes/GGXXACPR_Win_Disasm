@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc52fb
+size = 0x34
+name = "___set_flsgetvalue"
+artifact_type = "Function"
+
+[header]
+name = "___set_flsgetvalue"
+addr = 0xc52fb
+
+[header.args]
