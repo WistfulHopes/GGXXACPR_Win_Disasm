@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xe7847
+size = 0x279
+name = "___ld12mul"
+artifact_type = "Function"
+
+[header]
+name = "___ld12mul"
+addr = 0xe7847
+
+[header.args]
