@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc2350
+size = 0x95
+name = "__aulldvrm"
+artifact_type = "Function"
+
+[header]
+name = "__aulldvrm"
+addr = 0xc2350
+
+[header.args]
