@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xe665d
+size = 0x1f
+name = "__IsZeroMan"
+artifact_type = "Function"
+
+[header]
+name = "__IsZeroMan"
+addr = 0xe665d
+
+[header.args]
