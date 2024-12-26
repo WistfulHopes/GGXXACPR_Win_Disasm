@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbd718
+size = 0x2a
+name = "__vsprintf_p_l"
+artifact_type = "Function"
+
+[header]
+name = "__vsprintf_p_l"
+addr = 0xbd718
+
+[header.args]
