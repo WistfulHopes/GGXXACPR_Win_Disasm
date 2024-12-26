@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd2a32
+size = 0x31
+name = "__freebuf"
+artifact_type = "Function"
+
+[header]
+name = "__freebuf"
+addr = 0xd2a32
+
+[header.args]
