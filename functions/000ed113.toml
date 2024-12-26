@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xed113
+size = 0x71
+name = "do_length"
+artifact_type = "Function"
+
+[header]
+name = "do_length"
+addr = 0xed113
+
+[header.args]
