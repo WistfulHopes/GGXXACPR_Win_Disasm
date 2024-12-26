@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xe648b
+size = 0x49
+name = "__ZeroTail"
+artifact_type = "Function"
+
+[header]
+name = "__ZeroTail"
+addr = 0xe648b
+
+[header.args]
