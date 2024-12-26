@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xcf817
+size = 0x16
+name = "__inc"
+artifact_type = "Function"
+
+[header]
+name = "__inc"
+addr = 0xcf817
+
+[header.args]
