@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xdd6e9
+size = 0x16
+name = "FID_conflict:getGuardNumber"
+artifact_type = "Function"
+
+[header]
+name = "FID_conflict:getGuardNumber"
+addr = 0xdd6e9
+
+[header.args]
