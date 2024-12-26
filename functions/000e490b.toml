@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe490b
+size = 0x19
+name = "__ismbblead_l"
+artifact_type = "Function"
+
+[header]
+name = "__ismbblead_l"
+addr = 0xe490b
+
+[header.args]
