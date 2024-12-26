@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0x11fb0
+size = 0xf
+name = "Lock"
+artifact_type = "Function"
+
+[header]
+name = "Lock"
+addr = 0x11fb0
+
+[header.args]
