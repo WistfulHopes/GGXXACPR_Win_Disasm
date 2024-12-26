@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xc891d
+size = 0x5c
+name = "FID_conflict:__vscprintf_helper"
+artifact_type = "Function"
+
+[header]
+name = "FID_conflict:__vscprintf_helper"
+addr = 0xc891d
+
+[header.args]
