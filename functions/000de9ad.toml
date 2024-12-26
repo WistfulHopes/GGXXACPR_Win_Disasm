@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xde9ad
+size = 0x110
+name = "getECSUDataType"
+artifact_type = "Function"
+
+[header]
+name = "getECSUDataType"
+addr = 0xde9ad
+
+[header.args]
