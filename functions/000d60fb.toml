@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd60fb
+size = 0x11
+name = "__clrfp"
+artifact_type = "Function"
+
+[header]
+name = "__clrfp"
+addr = 0xd60fb
+
+[header.args]
