@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xddf76
+size = 0x5d6
+name = "getOperatorName"
+artifact_type = "Function"
+
+[header]
+name = "getOperatorName"
+addr = 0xddf76
+
+[header.args]
