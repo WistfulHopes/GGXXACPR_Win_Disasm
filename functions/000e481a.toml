@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe481a
+size = 0x1b
+name = "__ismbbalnum"
+artifact_type = "Function"
+
+[header]
+name = "__ismbbalnum"
+addr = 0xe481a
+
+[header.args]
