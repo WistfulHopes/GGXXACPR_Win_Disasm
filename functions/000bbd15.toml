@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbbd15
+size = 0x116
+name = "__toupper_l"
+artifact_type = "Function"
+
+[header]
+name = "__toupper_l"
+addr = 0xbbd15
+
+[header.args]
