@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc2680
+size = 0x17
+name = "_fopen"
+artifact_type = "Function"
+
+[header]
+name = "_fopen"
+addr = 0xc2680
+
+[header.args]
