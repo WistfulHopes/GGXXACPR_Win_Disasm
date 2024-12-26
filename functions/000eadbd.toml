@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xeadbd
+size = 0x60
+name = "_Locimp_dtor"
+artifact_type = "Function"
+
+[header]
+name = "_Locimp_dtor"
+addr = 0xeadbd
+
+[header.args]
