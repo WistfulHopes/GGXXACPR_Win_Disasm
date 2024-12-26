@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc1a3d
+size = 0xd7
+name = "_CallSETranslator"
+artifact_type = "Function"
+
+[header]
+name = "_CallSETranslator"
+addr = 0xc1a3d
+
+[header.args]
