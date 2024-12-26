@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbf9af
+size = 0x22
+name = "FID_conflict:_swscanf"
+artifact_type = "Function"
+
+[header]
+name = "FID_conflict:_swscanf"
+addr = 0xbf9af
+
+[header.args]
