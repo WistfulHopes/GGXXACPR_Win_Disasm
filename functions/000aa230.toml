@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xaa230
+size = 0x28
+name = "BeginFlush"
+artifact_type = "Function"
+
+[header]
+name = "BeginFlush"
+addr = 0xaa230
+
+[header.args]
