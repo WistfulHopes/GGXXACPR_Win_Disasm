@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd5864
+size = 0x2dc
+name = "__raise_exc_ex"
+artifact_type = "Function"
+
+[header]
+name = "__raise_exc_ex"
+addr = 0xd5864
+
+[header.args]
