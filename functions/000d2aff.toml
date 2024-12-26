@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd2aff
+size = 0xb9
+name = "__close"
+artifact_type = "Function"
+
+[header]
+name = "__close"
+addr = 0xd2aff
+
+[header.args]
