@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd3e8e
+size = 0x11e4
+name = "__winput_s_l"
+artifact_type = "Function"
+
+[header]
+name = "__winput_s_l"
+addr = 0xd3e8e
+
+[header.args]
