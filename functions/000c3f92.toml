@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc3f92
+size = 0x1d6
+name = "__isindst_nolock"
+artifact_type = "Function"
+
+[header]
+name = "__isindst_nolock"
+addr = 0xc3f92
+
+[header.args]
