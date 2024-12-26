@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xcadff
+size = 0x29
+name = "___pctype_func"
+artifact_type = "Function"
+
+[header]
+name = "___pctype_func"
+addr = 0xcadff
+
+[header.args]
