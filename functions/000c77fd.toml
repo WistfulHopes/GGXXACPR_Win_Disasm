@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xc77fd
+size = 0x1b
+name = "_wcslen"
+artifact_type = "Function"
+
+[header]
+name = "_wcslen"
+addr = 0xc77fd
+
+[header.args]
