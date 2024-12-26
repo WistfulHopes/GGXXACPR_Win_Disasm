@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xecf85
+size = 0xfb
+name = "do_out"
+artifact_type = "Function"
+
+[header]
+name = "do_out"
+addr = 0xecf85
+
+[header.args]
