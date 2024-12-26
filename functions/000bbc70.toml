@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbbc70
+size = 0x87
+name = "_LocaleUpdate"
+artifact_type = "Function"
+
+[header]
+name = "_LocaleUpdate"
+addr = 0xbbc70
+
+[header.args]

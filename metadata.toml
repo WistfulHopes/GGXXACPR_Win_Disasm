@@ -3,4 +3,4 @@ version = "5.2.0"
 last_push_time = 2024-12-26T03:09:09.758152Z
 last_push_artifact = -1
 last_push_artifact_type = -1
-last_commit_msg = "Merged in <Function: None _strcpy_s(args=0); @0xbbc11 vars=0 len=0x5f> from theso"
+last_commit_msg = "Merged in <Function: None _LocaleUpdate(args=0); @0xbbc70 vars=0 len=0x87> from theso"
