@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbdab2
+size = 0xaa
+name = "__free_locale"
+artifact_type = "Function"
+
+[header]
+name = "__free_locale"
+addr = 0xbdab2
+
+[header.args]
