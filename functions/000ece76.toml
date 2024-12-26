@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xece76
+size = 0x4c
+name = "Makpat"
+artifact_type = "Function"
+
+[header]
+name = "Makpat"
+addr = 0xece76
+
+[header.args]
