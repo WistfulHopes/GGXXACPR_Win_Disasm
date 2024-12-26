@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xeaee6
+size = 0x4d
+name = "_Locinfo_ctor"
+artifact_type = "Function"
+
+[header]
+name = "_Locinfo_ctor"
+addr = 0xeaee6
+
+[header.args]
