@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe2b00
+size = 0x51
+name = "__isupper_l"
+artifact_type = "Function"
+
+[header]
+name = "__isupper_l"
+addr = 0xe2b00
+
+[header.args]
