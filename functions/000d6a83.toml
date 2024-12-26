@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd6a83
+size = 0x23
+name = "__initp_misc_cfltcvt_tab"
+artifact_type = "Function"
+
+[header]
+name = "__initp_misc_cfltcvt_tab"
+addr = 0xd6a83
+
+[header.args]
