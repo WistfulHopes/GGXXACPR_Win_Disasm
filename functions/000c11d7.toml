@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc11d7
+size = 0x1d
+name = "__vsnwprintf"
+artifact_type = "Function"
+
+[header]
+name = "__vsnwprintf"
+addr = 0xc11d7
+
+[header.args]
