@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe2f93
+size = 0x51
+name = "__iscntrl_l"
+artifact_type = "Function"
+
+[header]
+name = "__iscntrl_l"
+addr = 0xe2f93
+
+[header.args]
