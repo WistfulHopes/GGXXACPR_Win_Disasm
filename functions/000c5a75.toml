@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc5a75
+size = 0x38
+name = "__isleadbyte_l"
+artifact_type = "Function"
+
+[header]
+name = "__isleadbyte_l"
+addr = 0xc5a75
+
+[header.args]
