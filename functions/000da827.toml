@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xda827
+size = 0x13
+name = "__cropzeros"
+artifact_type = "Function"
+
+[header]
+name = "__cropzeros"
+addr = 0xda827
+
+[header.args]
