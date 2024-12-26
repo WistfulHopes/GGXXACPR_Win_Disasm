@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xe662d
+size = 0x1f
+name = "__CopyMan"
+artifact_type = "Function"
+
+[header]
+name = "__CopyMan"
+addr = 0xe662d
+
+[header.args]
