@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xe8ed4
+size = 0x9f
+name = "__abstract_cw"
+artifact_type = "Function"
+
+[header]
+name = "__abstract_cw"
+addr = 0xe8ed4
+
+[header.args]
