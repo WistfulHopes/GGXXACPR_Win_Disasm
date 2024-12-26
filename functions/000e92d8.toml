@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xe92d8
+size = 0x50
+name = "___clearfp_sse2"
+artifact_type = "Function"
+
+[header]
+name = "___clearfp_sse2"
+addr = 0xe92d8
+
+[header.args]
