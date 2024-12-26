@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xdb736
+size = 0x1c
+name = "__seh_longjmp_unwind4@4"
+artifact_type = "Function"
+
+[header]
+name = "__seh_longjmp_unwind4@4"
+addr = 0xdb736
+
+[header.args]
