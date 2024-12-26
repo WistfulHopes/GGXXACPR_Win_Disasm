@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xcf361
+size = 0xe5
+name = "__crtGetStringTypeA_stat"
+artifact_type = "Function"
+
+[header]
+name = "__crtGetStringTypeA_stat"
+addr = 0xcf361
+
+[header.args]
