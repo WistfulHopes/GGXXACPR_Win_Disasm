@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbf4f3
+size = 0x20
+name = "__getc_nolock"
+artifact_type = "Function"
+
+[header]
+name = "__getc_nolock"
+addr = 0xbf4f3
+
+[header.args]
