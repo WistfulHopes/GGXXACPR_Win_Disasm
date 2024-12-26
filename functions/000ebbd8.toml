@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xebbd8
+size = 0x18
+name = "__Stold"
+artifact_type = "Function"
+
+[header]
+name = "__Stold"
+addr = 0xebbd8
+
+[header.args]
