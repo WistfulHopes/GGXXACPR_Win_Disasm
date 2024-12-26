@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xdeabd
+size = 0x4a
+name = "getSymbolName"
+artifact_type = "Function"
+
+[header]
+name = "getSymbolName"
+addr = 0xdeabd
+
+[header.args]
