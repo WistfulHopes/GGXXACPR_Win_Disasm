@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x11f5a0
+size = 0xfa
+name = "privatese_request"
+artifact_type = "Function"
+
+[header]
+name = "privatese_request"
+addr = 0x11f5a0
+
+[header.args]

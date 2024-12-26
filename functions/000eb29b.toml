@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xeb29b
+size = 0x1a
+name = "_Mutex"
+artifact_type = "Function"
+
+[header]
+name = "_Mutex"
+addr = 0xeb29b
+
+[header.args]

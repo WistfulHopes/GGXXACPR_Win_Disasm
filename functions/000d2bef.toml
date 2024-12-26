@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd2bef
+size = 0x5a
+name = "___check_float_string"
+artifact_type = "Function"
+
+[header]
+name = "___check_float_string"
+addr = 0xd2bef
+
+[header.args]

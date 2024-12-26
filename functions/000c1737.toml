@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc1737
+size = 0x13f
+name = "___tmainCRTStartup"
+artifact_type = "Function"
+
+[header]
+name = "___tmainCRTStartup"
+addr = 0xc1737
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x1021a5
+size = 0x9e
+name = "__wcsnicmp"
+artifact_type = "Function"
+
+[header]
+name = "__wcsnicmp"
+addr = 0x1021a5
+
+[header.args]

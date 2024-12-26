@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbee34
+size = 0x2f
+name = "__unlock_file2"
+artifact_type = "Function"
+
+[header]
+name = "__unlock_file2"
+addr = 0xbee34
+
+[header.args]

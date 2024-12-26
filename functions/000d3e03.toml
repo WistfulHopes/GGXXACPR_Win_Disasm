@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd3e03
+size = 0x36
+name = "__hextodec"
+artifact_type = "Function"
+
+[header]
+name = "__hextodec"
+addr = 0xd3e03
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2524d0
+size = 0x53
+name = "SolAct_SuperVolcanicViperS"
+artifact_type = "Function"
+
+[header]
+name = "SolAct_SuperVolcanicViperS"
+addr = 0x2524d0
+
+[header.args]

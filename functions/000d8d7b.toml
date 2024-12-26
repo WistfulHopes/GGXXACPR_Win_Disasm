@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd8d7b
+size = 0x14a
+name = "__XcptFilter"
+artifact_type = "Function"
+
+[header]
+name = "__XcptFilter"
+addr = 0xd8d7b
+
+[header.args]

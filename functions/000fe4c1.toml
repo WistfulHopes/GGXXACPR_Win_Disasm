@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xfe4c1
+size = 0x89
+name = "do_transform"
+artifact_type = "Function"
+
+[header]
+name = "do_transform"
+addr = 0xfe4c1
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe4184
+size = 0x265
+name = "__wcstombs_l_helper"
+artifact_type = "Function"
+
+[header]
+name = "__wcstombs_l_helper"
+addr = 0xe4184
+
+[header.args]

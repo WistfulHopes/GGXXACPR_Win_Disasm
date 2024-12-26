@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2aee50
+size = 0x2b
+name = "af_PARENT_OFFSET_POS_Y"
+artifact_type = "Function"
+
+[header]
+name = "af_PARENT_OFFSET_POS_Y"
+addr = 0x2aee50
+
+[header.args]

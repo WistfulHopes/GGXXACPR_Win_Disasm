@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe39d1
+size = 0x181
+name = "__alloc_osfhnd"
+artifact_type = "Function"
+
+[header]
+name = "__alloc_osfhnd"
+addr = 0xe39d1
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2afc80
+size = 0xd3
+name = "SetAnimeNo"
+artifact_type = "Function"
+
+[header]
+name = "SetAnimeNo"
+addr = 0x2afc80
+
+[header.args]

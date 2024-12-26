@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2b0590
+size = 0x24
+name = "af_REVERSE"
+artifact_type = "Function"
+
+[header]
+name = "af_REVERSE"
+addr = 0x2b0590
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc43ca
+size = 0x23
+name = "__dosmaperr"
+artifact_type = "Function"
+
+[header]
+name = "__dosmaperr"
+addr = 0xc43ca
+
+[header.args]

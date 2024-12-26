@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xe5b96
+size = 0x204
+name = "__mbsnbicmp_l"
+artifact_type = "Function"
+
+[header]
+name = "__mbsnbicmp_l"
+addr = 0xe5b96
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0x5100
+size = 0x37
+name = "operator_unsigned_int"
+artifact_type = "Function"
+
+[header]
+name = "operator_unsigned_int"
+addr = 0x5100
+
+[header.args]

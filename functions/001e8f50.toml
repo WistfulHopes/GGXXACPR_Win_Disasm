@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1e8f50
+size = 0xc8
+name = "font_entry"
+artifact_type = "Function"
+
+[header]
+name = "font_entry"
+addr = 0x1e8f50
+
+[header.args]

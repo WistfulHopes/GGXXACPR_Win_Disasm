@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe44ee
+size = 0x1c2
+name = "wcstoxl"
+artifact_type = "Function"
+
+[header]
+name = "wcstoxl"
+addr = 0xe44ee
+
+[header.args]

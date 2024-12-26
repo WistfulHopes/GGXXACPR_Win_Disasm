@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc2fb4
+size = 0x100
+name = "_Name_base_internal"
+artifact_type = "Function"
+
+[header]
+name = "_Name_base_internal"
+addr = 0xc2fb4
+
+[header.args]

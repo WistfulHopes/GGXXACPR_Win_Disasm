@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xdc7ba
+size = 0x2d
+name = "DName"
+artifact_type = "Function"
+
+[header]
+name = "DName"
+addr = 0xdc7ba
+
+[header.args]

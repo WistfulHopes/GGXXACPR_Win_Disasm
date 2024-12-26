@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x3a31a0
+size = 0x67
+name = "__trandisp1"
+artifact_type = "Function"
+
+[header]
+name = "__trandisp1"
+addr = 0x3a31a0
+
+[header.args]

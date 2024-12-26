@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xc63e2
+size = 0x33
+name = "_write_char"
+artifact_type = "Function"
+
+[header]
+name = "_write_char"
+addr = 0xc63e2
+
+[header.args]

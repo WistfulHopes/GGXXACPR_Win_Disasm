@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xeb03d
+size = 0x31
+name = "_Init_locks"
+artifact_type = "Function"
+
+[header]
+name = "_Init_locks"
+addr = 0xeb03d
+
+[header.args]

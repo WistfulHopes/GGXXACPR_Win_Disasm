@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1f3b30
+size = 0x11
+name = "CmnAct_SitDamage3"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_SitDamage3"
+addr = 0x1f3b30
+
+[header.args]

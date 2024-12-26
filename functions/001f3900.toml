@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1f3900
+size = 0xaa
+name = "CmnAct_AirSlashBack"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_AirSlashBack"
+addr = 0x1f3900
+
+[header.args]

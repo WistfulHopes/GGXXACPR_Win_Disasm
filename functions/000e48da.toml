@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe48da
+size = 0x19
+name = "__ismbbpunct_l"
+artifact_type = "Function"
+
+[header]
+name = "__ismbbpunct_l"
+addr = 0xe48da
+
+[header.args]

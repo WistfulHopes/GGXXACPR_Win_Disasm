@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc2b90
+size = 0x45
+name = "__SEH_prolog4"
+artifact_type = "Function"
+
+[header]
+name = "__SEH_prolog4"
+addr = 0xc2b90
+
+[header.args]

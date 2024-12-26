@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd1b40
+size = 0x348
+name = "__ftelli64_nolock"
+artifact_type = "Function"
+
+[header]
+name = "__ftelli64_nolock"
+addr = 0xd1b40
+
+[header.args]

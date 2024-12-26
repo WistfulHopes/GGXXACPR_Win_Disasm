@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1f4dc0
+size = 0xa8
+name = "CmnAct_JumpLand"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_JumpLand"
+addr = 0x1f4dc0
+
+[header.args]

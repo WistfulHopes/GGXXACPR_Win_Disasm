@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x251ae0
+size = 0x6c
+name = "SolAct_WildThrow_Miss"
+artifact_type = "Function"
+
+[header]
+name = "SolAct_WildThrow_Miss"
+addr = 0x251ae0
+
+[header.args]

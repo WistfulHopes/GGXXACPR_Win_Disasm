@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xcbab4
+size = 0x1f0
+name = "___init_numeric"
+artifact_type = "Function"
+
+[header]
+name = "___init_numeric"
+addr = 0xcbab4
+
+[header.args]

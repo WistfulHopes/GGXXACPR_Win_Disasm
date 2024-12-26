@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xdb869
+size = 0x4c0
+name = "getTypeEncoding"
+artifact_type = "Function"
+
+[header]
+name = "getTypeEncoding"
+addr = 0xdb869
+
+[header.args]

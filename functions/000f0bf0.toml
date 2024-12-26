@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xf0bf0
+size = 0x25
+name = "moneypunct<>"
+artifact_type = "Function"
+
+[header]
+name = "moneypunct<>"
+addr = 0xf0bf0
+
+[header.args]

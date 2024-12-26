@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x140ad0
+size = 0x31
+name = "Random"
+artifact_type = "Function"
+
+[header]
+name = "Random"
+addr = 0x140ad0
+
+[header.args]

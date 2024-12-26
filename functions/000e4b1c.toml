@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe4b1c
+size = 0x9
+name = "__NLG_Notify1"
+artifact_type = "Function"
+
+[header]
+name = "__NLG_Notify1"
+addr = 0xe4b1c
+
+[header.args]

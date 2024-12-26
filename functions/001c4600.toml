@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1c4600
+size = 0xbb
+name = "KakuseiBG_Execute"
+artifact_type = "Function"
+
+[header]
+name = "KakuseiBG_Execute"
+addr = 0x1c4600
+
+[header.args]

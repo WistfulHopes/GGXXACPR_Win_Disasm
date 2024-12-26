@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x10039d
+size = 0x9
+name = "__Getdays"
+artifact_type = "Function"
+
+[header]
+name = "__Getdays"
+addr = 0x10039d
+
+[header.args]

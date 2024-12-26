@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd5369
+size = 0x28
+name = "__copysign"
+artifact_type = "Function"
+
+[header]
+name = "__copysign"
+addr = 0xd5369
+
+[header.args]

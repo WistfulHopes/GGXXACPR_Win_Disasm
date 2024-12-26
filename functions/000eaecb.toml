@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xeaecb
+size = 0x1b
+name = "_Locinfo_dtor"
+artifact_type = "Function"
+
+[header]
+name = "_Locinfo_dtor"
+addr = 0xeaecb
+
+[header.args]

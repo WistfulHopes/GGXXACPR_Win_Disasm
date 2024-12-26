@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x3a45aa
+size = 0x138
+name = "__87except"
+artifact_type = "Function"
+
+[header]
+name = "__87except"
+addr = 0x3a45aa
+
+[header.args]

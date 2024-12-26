@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x250640
+size = 0x66
+name = "EXSolAct_WildPunchHit"
+artifact_type = "Function"
+
+[header]
+name = "EXSolAct_WildPunchHit"
+addr = 0x250640
+
+[header.args]

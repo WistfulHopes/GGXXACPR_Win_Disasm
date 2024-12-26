@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xf1a8e
+size = 0xd8
+name = "do_get_time"
+artifact_type = "Function"
+
+[header]
+name = "do_get_time"
+addr = 0xf1a8e
+
+[header.args]

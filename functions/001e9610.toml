@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1e9610
+size = 0x2fb
+name = "FontDraw"
+artifact_type = "Function"
+
+[header]
+name = "FontDraw"
+addr = 0x1e9610
+
+[header.args]

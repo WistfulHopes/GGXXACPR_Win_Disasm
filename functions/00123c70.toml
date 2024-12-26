@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x123c70
+size = 0x4f
+name = "CmnAct_ThrowDMGKY"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_ThrowDMGKY"
+addr = 0x123c70
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1f1ad0
+size = 0xc1
+name = "CmnAct_BackWalk"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_BackWalk"
+addr = 0x1f1ad0
+
+[header.args]

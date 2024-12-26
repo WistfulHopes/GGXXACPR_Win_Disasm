@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1e9a50
+size = 0xd0
+name = "InitNL_SPR_ARG_XYUV"
+artifact_type = "Function"
+
+[header]
+name = "InitNL_SPR_ARG_XYUV"
+addr = 0x1e9a50
+
+[header.args]

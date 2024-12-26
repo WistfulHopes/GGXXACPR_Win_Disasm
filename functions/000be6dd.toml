@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbe6dd
+size = 0xf5
+name = "__create_locale"
+artifact_type = "Function"
+
+[header]
+name = "__create_locale"
+addr = 0xbe6dd
+
+[header.args]

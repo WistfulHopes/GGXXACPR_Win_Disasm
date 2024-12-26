@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe170c
+size = 0x56
+name = "__isatty"
+artifact_type = "Function"
+
+[header]
+name = "__isatty"
+addr = 0xe170c
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x252bc0
+size = 0x459
+name = "EXSL_SpecialCommandCheck"
+artifact_type = "Function"
+
+[header]
+name = "EXSL_SpecialCommandCheck"
+addr = 0x252bc0
+
+[header.args]

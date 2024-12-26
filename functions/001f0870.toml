@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1f0870
+size = 0xe0
+name = "SetChangeFrameAnime"
+artifact_type = "Function"
+
+[header]
+name = "SetChangeFrameAnime"
+addr = 0x1f0870
+
+[header.args]

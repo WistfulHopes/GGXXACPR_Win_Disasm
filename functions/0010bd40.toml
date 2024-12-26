@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x10bd40
+size = 0x202
+name = "gSpriteDraw"
+artifact_type = "Function"
+
+[header]
+name = "gSpriteDraw"
+addr = 0x10bd40
+
+[header.args]

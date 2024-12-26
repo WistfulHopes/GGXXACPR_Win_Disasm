@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe26e0
+size = 0xe2
+name = "__strnicmp_l"
+artifact_type = "Function"
+
+[header]
+name = "__strnicmp_l"
+addr = 0xe26e0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xff76a
+size = 0x94
+name = "__Strcoll"
+artifact_type = "Function"
+
+[header]
+name = "__Strcoll"
+addr = 0xff76a
+
+[header.args]

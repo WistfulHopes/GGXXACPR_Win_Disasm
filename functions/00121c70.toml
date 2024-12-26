@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x121c70
+size = 0x53
+name = "CmnAct_Casket"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_Casket"
+addr = 0x121c70
+
+[header.args]

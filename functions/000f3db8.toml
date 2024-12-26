@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xf3db8
+size = 0x169
+name = "_Getloctxt<>"
+artifact_type = "Function"
+
+[header]
+name = "_Getloctxt<>"
+addr = 0xf3db8
+
+[header.args]

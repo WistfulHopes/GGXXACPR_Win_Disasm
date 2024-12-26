@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x250830
+size = 0x46
+name = "EXSolAct_TyrantRaveALand"
+artifact_type = "Function"
+
+[header]
+name = "EXSolAct_TyrantRaveALand"
+addr = 0x250830
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe523f
+size = 0x5f
+name = "__controlfp_s"
+artifact_type = "Function"
+
+[header]
+name = "__controlfp_s"
+addr = 0xe523f
+
+[header.args]

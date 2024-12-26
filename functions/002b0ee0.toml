@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2b0ee0
+size = 0xdf
+name = "af_ROT"
+artifact_type = "Function"
+
+[header]
+name = "af_ROT"
+addr = 0x2b0ee0
+
+[header.args]

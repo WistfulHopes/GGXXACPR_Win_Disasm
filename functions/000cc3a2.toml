@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xcc3a2
+size = 0x1cd
+name = "_LangCountryEnumProc@4"
+artifact_type = "Function"
+
+[header]
+name = "_LangCountryEnumProc@4"
+addr = 0xcc3a2
+
+[header.args]

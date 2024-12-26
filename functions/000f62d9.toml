@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xf62d9
+size = 0x69e
+name = "Getffld"
+artifact_type = "Function"
+
+[header]
+name = "Getffld"
+addr = 0xf62d9
+
+[header.args]

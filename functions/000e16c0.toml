@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe16c0
+size = 0x16
+name = "__alloca_probe_16"
+artifact_type = "Function"
+
+[header]
+name = "__alloca_probe_16"
+addr = 0xe16c0
+
+[header.args]

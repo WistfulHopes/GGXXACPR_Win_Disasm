@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbb6b4
+size = 0x27
+name = "exception"
+artifact_type = "Function"
+
+[header]
+name = "exception"
+addr = 0xbb6b4
+
+[header.args]

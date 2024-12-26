@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x251ca0
+size = 0x46
+name = "SolAct_DIBanditRevolverLand"
+artifact_type = "Function"
+
+[header]
+name = "SolAct_DIBanditRevolverLand"
+addr = 0x251ca0
+
+[header.args]

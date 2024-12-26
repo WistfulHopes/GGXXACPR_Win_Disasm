@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbf0a6
+size = 0x75
+name = "__fseeki64"
+artifact_type = "Function"
+
+[header]
+name = "__fseeki64"
+addr = 0xbf0a6
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd5218
+size = 0x28
+name = "__set_bexp"
+artifact_type = "Function"
+
+[header]
+name = "__set_bexp"
+addr = 0xd5218
+
+[header.args]

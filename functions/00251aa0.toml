@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x251aa0
+size = 0x3b
+name = "SolAct_AirThrow"
+artifact_type = "Function"
+
+[header]
+name = "SolAct_AirThrow"
+addr = 0x251aa0
+
+[header.args]

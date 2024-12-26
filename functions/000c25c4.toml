@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc25c4
+size = 0xb2
+name = "__fsopen"
+artifact_type = "Function"
+
+[header]
+name = "__fsopen"
+addr = 0xc25c4
+
+[header.args]

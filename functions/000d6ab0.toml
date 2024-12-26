@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd6ab0
+size = 0x35
+name = "__ValidateImageBase"
+artifact_type = "Function"
+
+[header]
+name = "__ValidateImageBase"
+addr = 0xd6ab0
+
+[header.args]

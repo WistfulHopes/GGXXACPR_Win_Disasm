@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe4ff4
+size = 0xb3
+name = "___dtold"
+artifact_type = "Function"
+
+[header]
+name = "___dtold"
+addr = 0xe4ff4
+
+[header.args]

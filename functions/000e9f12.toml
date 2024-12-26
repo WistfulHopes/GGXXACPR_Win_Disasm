@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xe9f12
+size = 0x1b6
+name = "__chsize_nolock"
+artifact_type = "Function"
+
+[header]
+name = "__chsize_nolock"
+addr = 0xe9f12
+
+[header.args]

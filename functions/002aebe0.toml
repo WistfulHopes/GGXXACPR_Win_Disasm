@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2aebe0
+size = 0x39
+name = "af_ENEMY_HIT_SE_MODE"
+artifact_type = "Function"
+
+[header]
+name = "af_ENEMY_HIT_SE_MODE"
+addr = 0x2aebe0
+
+[header.args]

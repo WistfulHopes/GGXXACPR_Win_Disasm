@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe083f
+size = 0xf9
+name = "getPtrRefType"
+artifact_type = "Function"
+
+[header]
+name = "getPtrRefType"
+addr = 0xe083f
+
+[header.args]

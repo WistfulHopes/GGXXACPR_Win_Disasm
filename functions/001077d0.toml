@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x1077d0
+size = 0x1c6
+name = "nlcDispStrip"
+artifact_type = "Function"
+
+[header]
+name = "nlcDispStrip"
+addr = 0x1077d0
+
+[header.args]

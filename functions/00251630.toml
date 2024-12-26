@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x251630
+size = 0x7f
+name = "SolAct_ForwardRespectA"
+artifact_type = "Function"
+
+[header]
+name = "SolAct_ForwardRespectA"
+addr = 0x251630
+
+[header.args]

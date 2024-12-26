@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xe91d3
+size = 0x92
+name = "__statusfp"
+artifact_type = "Function"
+
+[header]
+name = "__statusfp"
+addr = 0xe91d3
+
+[header.args]

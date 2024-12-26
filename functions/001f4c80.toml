@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1f4c80
+size = 0x96
+name = "CmnAct_Burst"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_Burst"
+addr = 0x1f4c80
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbc074
+size = 0x51
+name = "__time64"
+artifact_type = "Function"
+
+[header]
+name = "__time64"
+addr = 0xbc074
+
+[header.args]

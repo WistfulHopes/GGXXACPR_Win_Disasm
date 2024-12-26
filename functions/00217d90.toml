@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x217d90
+size = 0x89
+name = "Gray_Exe"
+artifact_type = "Function"
+
+[header]
+name = "Gray_Exe"
+addr = 0x217d90
+
+[header.args]

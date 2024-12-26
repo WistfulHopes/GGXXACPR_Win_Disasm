@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xdd979
+size = 0x2ee
+name = "getTemplateConstant"
+artifact_type = "Function"
+
+[header]
+name = "getTemplateConstant"
+addr = 0xdd979
+
+[header.args]

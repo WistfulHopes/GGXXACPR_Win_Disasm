@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd1e8a
+size = 0x63
+name = "__ftelli64"
+artifact_type = "Function"
+
+[header]
+name = "__ftelli64"
+addr = 0xd1e8a
+
+[header.args]

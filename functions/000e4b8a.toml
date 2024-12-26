@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe4b8a
+size = 0x115
+name = "__tolower_l"
+artifact_type = "Function"
+
+[header]
+name = "__tolower_l"
+addr = 0xe4b8a
+
+[header.args]

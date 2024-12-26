@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x101faa
+size = 0x91
+name = "__wsopen_helper"
+artifact_type = "Function"
+
+[header]
+name = "__wsopen_helper"
+addr = 0x101faa
+
+[header.args]

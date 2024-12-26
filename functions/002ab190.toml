@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2ab190
+size = 0x77
+name = "SetDefaultHitVoice"
+artifact_type = "Function"
+
+[header]
+name = "SetDefaultHitVoice"
+addr = 0x2ab190
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xee1b2
+size = 0x3e
+name = "FID_conflict:_Inside"
+artifact_type = "Function"
+
+[header]
+name = "FID_conflict:_Inside"
+addr = 0xee1b2
+
+[header.args]

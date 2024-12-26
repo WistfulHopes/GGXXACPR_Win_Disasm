@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2aedc0
+size = 0x2d
+name = "af_DOWN_Y"
+artifact_type = "Function"
+
+[header]
+name = "af_DOWN_Y"
+addr = 0x2aedc0
+
+[header.args]

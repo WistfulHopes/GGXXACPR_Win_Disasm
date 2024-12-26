@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x125160
+size = 0xae
+name = "Tension_Dec"
+artifact_type = "Function"
+
+[header]
+name = "Tension_Dec"
+addr = 0x125160
+
+[header.args]

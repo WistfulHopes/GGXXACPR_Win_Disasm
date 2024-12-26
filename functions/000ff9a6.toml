@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xff9a6
+size = 0xa9
+name = "__Wcscoll"
+artifact_type = "Function"
+
+[header]
+name = "__Wcscoll"
+addr = 0xff9a6
+
+[header.args]

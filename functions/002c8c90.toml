@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2c8c90
+size = 0xb4a
+name = "SurvivalState"
+artifact_type = "Function"
+
+[header]
+name = "SurvivalState"
+addr = 0x2c8c90
+
+[header.args]

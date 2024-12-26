@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x11f820
+size = 0x71
+name = "sound_request"
+artifact_type = "Function"
+
+[header]
+name = "sound_request"
+addr = 0x11f820
+
+[header.args]

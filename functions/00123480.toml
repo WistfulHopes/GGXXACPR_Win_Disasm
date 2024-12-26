@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x123480
+size = 0xb4
+name = "CmnAct_ThrowDMGMYITJump"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_ThrowDMGMYITJump"
+addr = 0x123480
+
+[header.args]

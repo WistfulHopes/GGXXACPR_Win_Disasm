@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1f3170
+size = 0x1b
+name = "CmnAct_VertDownDrop"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_VertDownDrop"
+addr = 0x1f3170
+
+[header.args]

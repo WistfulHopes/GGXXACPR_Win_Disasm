@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xfb48a
+size = 0x27
+name = "basic_string<>"
+artifact_type = "Function"
+
+[header]
+name = "basic_string<>"
+addr = 0xfb48a
+
+[header.args]

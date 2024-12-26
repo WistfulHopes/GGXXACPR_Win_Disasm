@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2ae460
+size = 0xaa
+name = "ForceStopTimeExe"
+artifact_type = "Function"
+
+[header]
+name = "ForceStopTimeExe"
+addr = 0x2ae460
+
+[header.args]

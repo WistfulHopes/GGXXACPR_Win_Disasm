@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc5c6d
+size = 0x13
+name = "FID_conflict:_iswcntrl"
+artifact_type = "Function"
+
+[header]
+name = "FID_conflict:_iswcntrl"
+addr = 0xc5c6d
+
+[header.args]

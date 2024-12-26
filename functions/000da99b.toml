@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xda99b
+size = 0xc5
+name = "__cftoe_l"
+artifact_type = "Function"
+
+[header]
+name = "__cftoe_l"
+addr = 0xda99b
+
+[header.args]

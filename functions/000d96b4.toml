@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd96b4
+size = 0xb6
+name = "___CxxRegisterExceptionObject"
+artifact_type = "Function"
+
+[header]
+name = "___CxxRegisterExceptionObject"
+addr = 0xd96b4
+
+[header.args]

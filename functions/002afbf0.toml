@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2afbf0
+size = 0x29
+name = "af_SETCOLLISIONDATA"
+artifact_type = "Function"
+
+[header]
+name = "af_SETCOLLISIONDATA"
+addr = 0x2afbf0
+
+[header.args]

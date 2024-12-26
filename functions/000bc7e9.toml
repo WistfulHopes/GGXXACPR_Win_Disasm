@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbc7e9
+size = 0x239
+name = "__gmtime64_s"
+artifact_type = "Function"
+
+[header]
+name = "__gmtime64_s"
+addr = 0xbc7e9
+
+[header.args]

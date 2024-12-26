@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x250280
+size = 0x4d
+name = "EXSolAct_FlameDipper"
+artifact_type = "Function"
+
+[header]
+name = "EXSolAct_FlameDipper"
+addr = 0x250280
+
+[header.args]

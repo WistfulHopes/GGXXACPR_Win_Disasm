@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2aeaa0
+size = 0x22
+name = "af_NOTHROW"
+artifact_type = "Function"
+
+[header]
+name = "af_NOTHROW"
+addr = 0x2aeaa0
+
+[header.args]

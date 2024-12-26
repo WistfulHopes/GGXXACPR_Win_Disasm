@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xe8f73
+size = 0x8e
+name = "__hw_cw"
+artifact_type = "Function"
+
+[header]
+name = "__hw_cw"
+addr = 0xe8f73
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x373ee0
+size = 0x1431
+name = "ExecuteActJumpTbByIdno"
+artifact_type = "Function"
+
+[header]
+name = "ExecuteActJumpTbByIdno"
+addr = 0x373ee0
+
+[header.args]

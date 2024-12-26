@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xf0fd7
+size = 0x1d2
+name = "Getint"
+artifact_type = "Function"
+
+[header]
+name = "Getint"
+addr = 0xf0fd7
+
+[header.args]

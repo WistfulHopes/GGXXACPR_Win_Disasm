@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x253610
+size = 0x4a2
+name = "SL_SpecialCommandCheck"
+artifact_type = "Function"
+
+[header]
+name = "SL_SpecialCommandCheck"
+addr = 0x253610
+
+[header.args]

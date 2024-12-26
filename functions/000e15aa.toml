@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe15aa
+size = 0xd8
+name = "__crtGetLocaleInfoA_stat"
+artifact_type = "Function"
+
+[header]
+name = "__crtGetLocaleInfoA_stat"
+addr = 0xe15aa
+
+[header.args]

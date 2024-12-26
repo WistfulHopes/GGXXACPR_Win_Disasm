@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xfc99b
+size = 0x88
+name = "Getcat"
+artifact_type = "Function"
+
+[header]
+name = "Getcat"
+addr = 0xfc99b
+
+[header.args]

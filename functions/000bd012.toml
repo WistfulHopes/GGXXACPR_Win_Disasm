@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbd012
+size = 0x3c
+name = "__putenv"
+artifact_type = "Function"
+
+[header]
+name = "__putenv"
+addr = 0xbd012
+
+[header.args]

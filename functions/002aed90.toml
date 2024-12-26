@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2aed90
+size = 0x2d
+name = "af_SET_DOWNTIME"
+artifact_type = "Function"
+
+[header]
+name = "af_SET_DOWNTIME"
+addr = 0x2aed90
+
+[header.args]

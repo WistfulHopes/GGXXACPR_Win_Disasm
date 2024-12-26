@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x252660
+size = 0x61
+name = "SOL_TAUNT"
+artifact_type = "Function"
+
+[header]
+name = "SOL_TAUNT"
+addr = 0x252660
+
+[header.args]

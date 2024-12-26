@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2ab110
+size = 0x3c
+name = "Parent_BACK_MOTION"
+artifact_type = "Function"
+
+[header]
+name = "Parent_BACK_MOTION"
+addr = 0x2ab110
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd618f
+size = 0x1e
+name = "___get_fpsr_sse2"
+artifact_type = "Function"
+
+[header]
+name = "___get_fpsr_sse2"
+addr = 0xd618f
+
+[header.args]

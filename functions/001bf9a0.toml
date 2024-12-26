@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1bf9a0
+size = 0x18d
+name = "ObjLinkSub"
+artifact_type = "Function"
+
+[header]
+name = "ObjLinkSub"
+addr = 0x1bf9a0
+
+[header.args]

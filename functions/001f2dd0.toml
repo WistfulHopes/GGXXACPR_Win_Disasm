@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1f2dd0
+size = 0x13
+name = "CmnAct_SitRightKick"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_SitRightKick"
+addr = 0x1f2dd0
+
+[header.args]

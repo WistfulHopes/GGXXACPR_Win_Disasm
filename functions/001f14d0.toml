@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1f14d0
+size = 0x99
+name = "CmnAct_StdAtk_ToStand"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_StdAtk_ToStand"
+addr = 0x1f14d0
+
+[header.args]

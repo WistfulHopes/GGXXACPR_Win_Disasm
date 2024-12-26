@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe3c80
+size = 0x42
+name = "__putwch_nolock"
+artifact_type = "Function"
+
+[header]
+name = "__putwch_nolock"
+addr = 0xe3c80
+
+[header.args]

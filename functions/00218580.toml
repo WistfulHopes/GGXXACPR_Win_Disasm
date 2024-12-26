@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x218580
+size = 0xe6
+name = "BG_LoadTextureInit"
+artifact_type = "Function"
+
+[header]
+name = "BG_LoadTextureInit"
+addr = 0x218580
+
+[header.args]

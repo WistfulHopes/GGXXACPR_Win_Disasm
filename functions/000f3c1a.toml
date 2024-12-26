@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xf3c1a
+size = 0x28
+name = "FID_conflict:resize"
+artifact_type = "Function"
+
+[header]
+name = "FID_conflict:resize"
+addr = 0xf3c1a
+
+[header.args]

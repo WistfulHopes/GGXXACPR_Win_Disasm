@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x3a37ee
+size = 0x3d
+name = "__cintrindisp1"
+artifact_type = "Function"
+
+[header]
+name = "__cintrindisp1"
+addr = 0x3a37ee
+
+[header.args]

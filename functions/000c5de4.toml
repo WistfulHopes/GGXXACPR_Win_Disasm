@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xc5de4
+size = 0x32
+name = "__isctype"
+artifact_type = "Function"
+
+[header]
+name = "__isctype"
+addr = 0xc5de4
+
+[header.args]

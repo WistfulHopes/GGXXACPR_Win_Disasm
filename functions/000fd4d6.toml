@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xfd4d6
+size = 0x9d
+name = "use_facet<class_std::time_get<char,class_std::istreambuf_iterator<char,struct_std::char_traits<char>_>_>_>"
+artifact_type = "Function"
+
+[header]
+name = "use_facet<class_std::time_get<char,class_std::istreambuf_iterator<char,struct_std::char_traits<char>_>_>_>"
+addr = 0xfd4d6
+
+[header.args]

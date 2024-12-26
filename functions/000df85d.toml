@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xdf85d
+size = 0x26e
+name = "getDecoratedName"
+artifact_type = "Function"
+
+[header]
+name = "getDecoratedName"
+addr = 0xdf85d
+
+[header.args]

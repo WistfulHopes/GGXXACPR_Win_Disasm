@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xddd50
+size = 0x17
+name = "getVbTableType"
+artifact_type = "Function"
+
+[header]
+name = "getVbTableType"
+addr = 0xddd50
+
+[header.args]

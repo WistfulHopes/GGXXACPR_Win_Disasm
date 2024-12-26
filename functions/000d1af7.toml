@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd1af7
+size = 0x49
+name = "__getbuf"
+artifact_type = "Function"
+
+[header]
+name = "__getbuf"
+addr = 0xd1af7
+
+[header.args]

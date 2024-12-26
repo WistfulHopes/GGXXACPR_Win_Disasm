@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe379b
+size = 0x81
+name = "__set_osfhnd"
+artifact_type = "Function"
+
+[header]
+name = "__set_osfhnd"
+addr = 0xe379b
+
+[header.args]

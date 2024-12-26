@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x3a42de
+size = 0x297
+name = "___libm_error_support"
+artifact_type = "Function"
+
+[header]
+name = "___libm_error_support"
+addr = 0x3a42de
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x125df0
+size = 0x4e
+name = "GetTensionVal"
+artifact_type = "Function"
+
+[header]
+name = "GetTensionVal"
+addr = 0x125df0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe3096
+size = 0x21
+name = "___iscsym"
+artifact_type = "Function"
+
+[header]
+name = "___iscsym"
+addr = 0xe3096
+
+[header.args]

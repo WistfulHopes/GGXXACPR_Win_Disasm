@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xfd439
+size = 0x9d
+name = "use_facet<class_std::moneypunct<char,1>_>"
+artifact_type = "Function"
+
+[header]
+name = "use_facet<class_std::moneypunct<char,1>_>"
+addr = 0xfd439
+
+[header.args]

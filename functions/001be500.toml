@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1be500
+size = 0x64
+name = "SetWinActFlag"
+artifact_type = "Function"
+
+[header]
+name = "SetWinActFlag"
+addr = 0x1be500
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xdb782
+size = 0x19
+name = "@_EH4_GlobalUnwind2@8"
+artifact_type = "Function"
+
+[header]
+name = "@_EH4_GlobalUnwind2@8"
+addr = 0xdb782
+
+[header.args]

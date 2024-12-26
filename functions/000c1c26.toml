@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc1c26
+size = 0x2c
+name = "__CreateFrameInfo"
+artifact_type = "Function"
+
+[header]
+name = "__CreateFrameInfo"
+addr = 0xc1c26
+
+[header.args]

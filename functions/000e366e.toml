@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe366e
+size = 0xeb
+name = "__read"
+artifact_type = "Function"
+
+[header]
+name = "__read"
+addr = 0xe366e
+
+[header.args]

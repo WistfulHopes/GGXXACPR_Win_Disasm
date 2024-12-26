@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2af2d0
+size = 0x2e
+name = "af_GUARD_VOICE"
+artifact_type = "Function"
+
+[header]
+name = "af_GUARD_VOICE"
+addr = 0x2af2d0
+
+[header.args]

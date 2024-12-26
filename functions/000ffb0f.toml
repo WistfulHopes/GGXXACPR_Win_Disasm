@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xffb0f
+size = 0xac
+name = "__Strxfrm"
+artifact_type = "Function"
+
+[header]
+name = "__Strxfrm"
+addr = 0xffb0f
+
+[header.args]

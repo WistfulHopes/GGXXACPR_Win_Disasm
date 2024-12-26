@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xcf86a
+size = 0x1002
+name = "__input_l"
+artifact_type = "Function"
+
+[header]
+name = "__input_l"
+addr = 0xcf86a
+
+[header.args]

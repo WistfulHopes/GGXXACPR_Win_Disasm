@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xffe9c
+size = 0x69
+name = "_strerror"
+artifact_type = "Function"
+
+[header]
+name = "_strerror"
+addr = 0xffe9c
+
+[header.args]

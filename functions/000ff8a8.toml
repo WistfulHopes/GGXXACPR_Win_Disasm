@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xff8a8
+size = 0x66
+name = "__Towlower"
+artifact_type = "Function"
+
+[header]
+name = "__Towlower"
+addr = 0xff8a8
+
+[header.args]

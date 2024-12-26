@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2aa5a0
+size = 0xd6
+name = "SetLandBreakActno"
+artifact_type = "Function"
+
+[header]
+name = "SetLandBreakActno"
+addr = 0x2aa5a0
+
+[header.args]

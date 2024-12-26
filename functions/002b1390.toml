@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2b1390
+size = 0x37d
+name = "NextInstExecute"
+artifact_type = "Function"
+
+[header]
+name = "NextInstExecute"
+addr = 0x2b1390
+
+[header.args]

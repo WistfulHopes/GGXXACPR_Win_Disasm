@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc19eb
+size = 0x1f
+name = "___CxxLongjmpUnwind@4"
+artifact_type = "Function"
+
+[header]
+name = "___CxxLongjmpUnwind@4"
+addr = 0xc19eb
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbb065
+size = 0x24
+name = "before"
+artifact_type = "Function"
+
+[header]
+name = "before"
+addr = 0xbb065
+
+[header.args]

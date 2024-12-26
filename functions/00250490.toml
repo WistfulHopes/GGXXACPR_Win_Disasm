@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x250490
+size = 0x57
+name = "EXSolAct_AirGunflameS"
+artifact_type = "Function"
+
+[header]
+name = "EXSolAct_AirGunflameS"
+addr = 0x250490
+
+[header.args]

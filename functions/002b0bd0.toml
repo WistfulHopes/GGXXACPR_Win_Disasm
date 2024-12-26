@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2b0bd0
+size = 0x184
+name = "af_CHAIN_CANCEL"
+artifact_type = "Function"
+
+[header]
+name = "af_CHAIN_CANCEL"
+addr = 0x2b0bd0
+
+[header.args]

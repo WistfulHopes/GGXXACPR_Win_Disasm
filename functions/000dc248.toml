@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xdc248
+size = 0x2a
+name = "und_strncmp"
+artifact_type = "Function"
+
+[header]
+name = "und_strncmp"
+addr = 0xdc248
+
+[header.args]

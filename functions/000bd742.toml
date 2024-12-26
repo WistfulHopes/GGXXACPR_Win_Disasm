@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbd742
+size = 0x162
+name = "__mbstowcs_l_helper"
+artifact_type = "Function"
+
+[header]
+name = "__mbstowcs_l_helper"
+addr = 0xbd742
+
+[header.args]

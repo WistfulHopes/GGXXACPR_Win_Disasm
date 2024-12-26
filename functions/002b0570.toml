@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2b0570
+size = 0x19
+name = "af_RANDPOS"
+artifact_type = "Function"
+
+[header]
+name = "af_RANDPOS"
+addr = 0x2b0570
+
+[header.args]

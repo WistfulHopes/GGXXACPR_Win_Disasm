@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x122a90
+size = 0x67
+name = "CmnAct_ThrowDMGPOEX2CeilingLand"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_ThrowDMGPOEX2CeilingLand"
+addr = 0x122a90
+
+[header.args]

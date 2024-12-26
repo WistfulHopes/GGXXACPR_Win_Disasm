@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xc5ed1
+size = 0x1cf
+name = "_asctime_s"
+artifact_type = "Function"
+
+[header]
+name = "_asctime_s"
+addr = 0xc5ed1
+
+[header.args]

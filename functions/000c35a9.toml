@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc35a9
+size = 0x1aa
+name = "___getlocaleinfo"
+artifact_type = "Function"
+
+[header]
+name = "___getlocaleinfo"
+addr = 0xc35a9
+
+[header.args]

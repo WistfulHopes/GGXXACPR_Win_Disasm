@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x1020a0
+size = 0x20
+name = "__wsopen_s"
+artifact_type = "Function"
+
+[header]
+name = "__wsopen_s"
+addr = 0x1020a0
+
+[header.args]

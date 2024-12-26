@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbc007
+size = 0x6b
+name = "__ctime64"
+artifact_type = "Function"
+
+[header]
+name = "__ctime64"
+addr = 0xbc007
+
+[header.args]

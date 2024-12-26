@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe49c2
+size = 0x13
+name = "__ismbbkana"
+artifact_type = "Function"
+
+[header]
+name = "__ismbbkana"
+addr = 0xe49c2
+
+[header.args]

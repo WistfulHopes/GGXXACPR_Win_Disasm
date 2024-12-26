@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xead40
+size = 0x21
+name = "__Deletegloballocale"
+artifact_type = "Function"
+
+[header]
+name = "__Deletegloballocale"
+addr = 0xead40
+
+[header.args]

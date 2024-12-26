@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xf0748
+size = 0x12
+name = "operator==<>"
+artifact_type = "Function"
+
+[header]
+name = "operator==<>"
+addr = 0xf0748
+
+[header.args]

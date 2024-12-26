@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe1f12
+size = 0x55
+name = "__wcsdup"
+artifact_type = "Function"
+
+[header]
+name = "__wcsdup"
+addr = 0xe1f12
+
+[header.args]

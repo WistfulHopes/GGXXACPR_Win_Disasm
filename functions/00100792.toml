@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x100792
+size = 0x20
+name = "_store_str"
+artifact_type = "Function"
+
+[header]
+name = "_store_str"
+addr = 0x100792
+
+[header.args]

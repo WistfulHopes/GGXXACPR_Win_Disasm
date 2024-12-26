@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1f2eb0
+size = 0x13
+name = "CmnAct_StandSlash"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_StandSlash"
+addr = 0x1f2eb0
+
+[header.args]

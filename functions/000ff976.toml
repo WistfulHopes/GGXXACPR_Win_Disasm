@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xff976
+size = 0x30
+name = "__Wmemcmp"
+artifact_type = "Function"
+
+[header]
+name = "__Wmemcmp"
+addr = 0xff976
+
+[header.args]

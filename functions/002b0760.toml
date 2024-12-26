@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2b0760
+size = 0x470
+name = "af_SETXSPEED"
+artifact_type = "Function"
+
+[header]
+name = "af_SETXSPEED"
+addr = 0x2b0760
+
+[header.args]

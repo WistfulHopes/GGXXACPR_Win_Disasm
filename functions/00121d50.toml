@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x121d50
+size = 0x129
+name = "CmnAct_AXTenhousekiDMG"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_AXTenhousekiDMG"
+addr = 0x121d50
+
+[header.args]

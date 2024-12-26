@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xea1af
+size = 0x1c
+name = "__chsize"
+artifact_type = "Function"
+
+[header]
+name = "__chsize"
+addr = 0xea1af
+
+[header.args]

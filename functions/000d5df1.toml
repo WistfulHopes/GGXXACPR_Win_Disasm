@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd5df1
+size = 0xa0
+name = "__umatherr"
+artifact_type = "Function"
+
+[header]
+name = "__umatherr"
+addr = 0xd5df1
+
+[header.args]

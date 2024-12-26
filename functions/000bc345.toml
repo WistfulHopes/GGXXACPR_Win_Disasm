@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbc345
+size = 0x51
+name = "`eh_vector_copy_constructor_iterator'"
+artifact_type = "Function"
+
+[header]
+name = "`eh_vector_copy_constructor_iterator'"
+addr = 0xbc345
+
+[header.args]

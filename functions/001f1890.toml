@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1f1890
+size = 0x60
+name = "CmnAct_SitTurnLeft"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_SitTurnLeft"
+addr = 0x1f1890
+
+[header.args]

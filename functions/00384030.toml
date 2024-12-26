@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x384030
+size = 0x4d
+name = "SolEffAct_Gunflame?"
+artifact_type = "Function"
+
+[header]
+name = "SolEffAct_Gunflame?"
+addr = 0x384030
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x13dbf0
+size = 0x50
+name = "IsHoldSlash"
+artifact_type = "Function"
+
+[header]
+name = "IsHoldSlash"
+addr = 0x13dbf0
+
+[header.args]

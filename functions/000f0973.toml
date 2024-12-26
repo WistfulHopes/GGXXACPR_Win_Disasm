@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xf0973
+size = 0x33
+name = "time_get<>"
+artifact_type = "Function"
+
+[header]
+name = "time_get<>"
+addr = 0xf0973
+
+[header.args]

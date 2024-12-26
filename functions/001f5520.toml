@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1f5520
+size = 0x92
+name = "CmnAct_Jump_Homing"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_Jump_Homing"
+addr = 0x1f5520
+
+[header.args]

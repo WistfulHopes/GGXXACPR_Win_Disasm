@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc337a
+size = 0x21
+name = "__set_abort_behavior"
+artifact_type = "Function"
+
+[header]
+name = "__set_abort_behavior"
+addr = 0xc337a
+
+[header.args]

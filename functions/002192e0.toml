@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2192e0
+size = 0xe2
+name = "BG_LoadTextureExecute"
+artifact_type = "Function"
+
+[header]
+name = "BG_LoadTextureExecute"
+addr = 0x2192e0
+
+[header.args]

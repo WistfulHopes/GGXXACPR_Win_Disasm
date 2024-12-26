@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xabe70
+size = 0x28
+name = "Pause"
+artifact_type = "Function"
+
+[header]
+name = "Pause"
+addr = 0xabe70
+
+[header.args]

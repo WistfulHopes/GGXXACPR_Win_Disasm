@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x120000
+size = 0x5b
+name = "SetThrowDamageStatus"
+artifact_type = "Function"
+
+[header]
+name = "SetThrowDamageStatus"
+addr = 0x120000
+
+[header.args]

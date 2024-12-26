@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xcba4b
+size = 0x69
+name = "___free_lconv_num"
+artifact_type = "Function"
+
+[header]
+name = "___free_lconv_num"
+addr = 0xcba4b
+
+[header.args]

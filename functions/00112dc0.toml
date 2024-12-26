@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x112dc0
+size = 0x1e7
+name = "GraphicExecuteRoot"
+artifact_type = "Function"
+
+[header]
+name = "GraphicExecuteRoot"
+addr = 0x112dc0
+
+[header.args]

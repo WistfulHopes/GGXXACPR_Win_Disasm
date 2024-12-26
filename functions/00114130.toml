@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x114130
+size = 0x4c
+name = "gCurrentColorSet"
+artifact_type = "Function"
+
+[header]
+name = "gCurrentColorSet"
+addr = 0x114130
+
+[header.args]

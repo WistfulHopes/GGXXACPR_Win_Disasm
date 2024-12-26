@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xff90e
+size = 0x68
+name = "__Towupper"
+artifact_type = "Function"
+
+[header]
+name = "__Towupper"
+addr = 0xff90e
+
+[header.args]

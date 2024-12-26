@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2298c0
+size = 0xc1
+name = "ZTED_Time_Dec"
+artifact_type = "Function"
+
+[header]
+name = "ZTED_Time_Dec"
+addr = 0x2298c0
+
+[header.args]

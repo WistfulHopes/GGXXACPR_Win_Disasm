@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x24ffa0
+size = 0x5e
+name = "EXSolAct_FBGrandViperJump"
+artifact_type = "Function"
+
+[header]
+name = "EXSolAct_FBGrandViperJump"
+addr = 0x24ffa0
+
+[header.args]

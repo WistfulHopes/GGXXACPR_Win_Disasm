@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xf4b51
+size = 0x40
+name = "do_get_monthname"
+artifact_type = "Function"
+
+[header]
+name = "do_get_monthname"
+addr = 0xf4b51
+
+[header.args]

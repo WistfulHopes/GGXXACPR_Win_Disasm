@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc1610
+size = 0x29
+name = "____mb_cur_max_func"
+artifact_type = "Function"
+
+[header]
+name = "____mb_cur_max_func"
+addr = 0xc1610
+
+[header.args]

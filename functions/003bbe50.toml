@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x3bbe50
+size = 0x5
+name = "thunk_FUN_00703920"
+artifact_type = "Function"
+
+[header]
+name = "thunk_FUN_00703920"
+addr = 0x3bbe50
+
+[header.args]

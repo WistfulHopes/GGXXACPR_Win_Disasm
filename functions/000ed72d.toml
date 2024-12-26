@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xed72d
+size = 0x27
+name = "time_put<>"
+artifact_type = "Function"
+
+[header]
+name = "time_put<>"
+addr = 0xed72d
+
+[header.args]

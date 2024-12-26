@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xfaf11
+size = 0x579
+name = "Putmfld"
+artifact_type = "Function"
+
+[header]
+name = "Putmfld"
+addr = 0xfaf11
+
+[header.args]

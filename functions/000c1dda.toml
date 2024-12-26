@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc1dda
+size = 0x60
+name = "__cfltcvt_init"
+artifact_type = "Function"
+
+[header]
+name = "__cfltcvt_init"
+addr = 0xc1dda
+
+[header.args]

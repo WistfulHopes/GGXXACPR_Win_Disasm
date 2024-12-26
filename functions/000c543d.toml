@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc543d
+size = 0x79
+name = "__getptd_noexit"
+artifact_type = "Function"
+
+[header]
+name = "__getptd_noexit"
+addr = 0xc543d
+
+[header.args]

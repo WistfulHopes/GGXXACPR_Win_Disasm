@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2ab980
+size = 0x27a
+name = "SetChainFlag"
+artifact_type = "Function"
+
+[header]
+name = "SetChainFlag"
+addr = 0x2ab980
+
+[header.args]

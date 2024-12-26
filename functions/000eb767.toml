@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xeb767
+size = 0xa5
+name = "__Stolx"
+artifact_type = "Function"
+
+[header]
+name = "__Stolx"
+addr = 0xeb767
+
+[header.args]

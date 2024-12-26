@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xebbf0
+size = 0x19c
+name = "__Stoulx"
+artifact_type = "Function"
+
+[header]
+name = "__Stoulx"
+addr = 0xebbf0
+
+[header.args]

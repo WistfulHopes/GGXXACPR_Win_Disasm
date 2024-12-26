@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2b1330
+size = 0x5d
+name = "af_TENSION"
+artifact_type = "Function"
+
+[header]
+name = "af_TENSION"
+addr = 0x2b1330
+
+[header.args]

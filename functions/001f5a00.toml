@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1f5a00
+size = 0x16
+name = "CmnAct_ForwardDownLand"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_ForwardDownLand"
+addr = 0x1f5a00
+
+[header.args]

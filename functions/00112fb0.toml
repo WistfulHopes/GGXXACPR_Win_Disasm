@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x112fb0
+size = 0x76
+name = "DrawParent"
+artifact_type = "Function"
+
+[header]
+name = "DrawParent"
+addr = 0x112fb0
+
+[header.args]

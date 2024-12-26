@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xee313
+size = 0x31
+name = "sbumpc"
+artifact_type = "Function"
+
+[header]
+name = "sbumpc"
+addr = 0xee313
+
+[header.args]

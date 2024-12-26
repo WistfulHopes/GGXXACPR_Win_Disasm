@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbd9d9
+size = 0x20
+name = "_mbstowcs_s"
+artifact_type = "Function"
+
+[header]
+name = "_mbstowcs_s"
+addr = 0xbd9d9
+
+[header.args]

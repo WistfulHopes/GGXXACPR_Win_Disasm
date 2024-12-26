@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc33c1
+size = 0x1ad
+name = "__NMSG_WRITE"
+artifact_type = "Function"
+
+[header]
+name = "__NMSG_WRITE"
+addr = 0xc33c1
+
+[header.args]

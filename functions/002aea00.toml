@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2aea00
+size = 0x5b
+name = "af_SETLOCALID"
+artifact_type = "Function"
+
+[header]
+name = "af_SETLOCALID"
+addr = 0x2aea00
+
+[header.args]

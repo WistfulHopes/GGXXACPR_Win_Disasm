@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2a31a0
+size = 0x3a
+name = "AXChainKill_Proc"
+artifact_type = "Function"
+
+[header]
+name = "AXChainKill_Proc"
+addr = 0x2a31a0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xb24e0
+size = 0x29
+name = "lpStartAddress_004b24e0"
+artifact_type = "Function"
+
+[header]
+name = "lpStartAddress_004b24e0"
+addr = 0xb24e0
+
+[header.args]

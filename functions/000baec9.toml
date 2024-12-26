@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbaec9
+size = 0xf
+name = "@__security_check_cookie@4"
+artifact_type = "Function"
+
+[header]
+name = "@__security_check_cookie@4"
+addr = 0xbaec9
+
+[header.args]

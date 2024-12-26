@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xdc1f8
+size = 0x2c
+name = "getString"
+artifact_type = "Function"
+
+[header]
+name = "getString"
+addr = 0xdc1f8
+
+[header.args]

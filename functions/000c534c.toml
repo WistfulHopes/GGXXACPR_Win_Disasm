@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc534c
+size = 0x3d
+name = "__mtterm"
+artifact_type = "Function"
+
+[header]
+name = "__mtterm"
+addr = 0xc534c
+
+[header.args]

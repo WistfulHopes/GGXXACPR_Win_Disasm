@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xf9d98
+size = 0x5dd
+name = "FID_conflict:_Makewloc"
+artifact_type = "Function"
+
+[header]
+name = "FID_conflict:_Makewloc"
+addr = 0xf9d98
+
+[header.args]

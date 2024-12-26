@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc3843
+size = 0x127
+name = "__call_reportfault"
+artifact_type = "Function"
+
+[header]
+name = "__call_reportfault"
+addr = 0xc3843
+
+[header.args]

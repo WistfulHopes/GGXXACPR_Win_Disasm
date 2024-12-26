@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc4d9a
+size = 0x3e
+name = "__getmbcp"
+artifact_type = "Function"
+
+[header]
+name = "__getmbcp"
+addr = 0xc4d9a
+
+[header.args]

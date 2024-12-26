@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xdd2d8
+size = 0x1c8
+name = "getExtendedDataIndirectType"
+artifact_type = "Function"
+
+[header]
+name = "getExtendedDataIndirectType"
+addr = 0xdd2d8
+
+[header.args]

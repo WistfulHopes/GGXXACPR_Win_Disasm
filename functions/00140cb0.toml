@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x140cb0
+size = 0x311
+name = "EffectCreate"
+artifact_type = "Function"
+
+[header]
+name = "EffectCreate"
+addr = 0x140cb0
+
+[header.args]

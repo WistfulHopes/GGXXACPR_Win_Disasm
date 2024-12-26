@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1f6450
+size = 0x88
+name = "CmnAct_JumpReady"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_JumpReady"
+addr = 0x1f6450
+
+[header.args]

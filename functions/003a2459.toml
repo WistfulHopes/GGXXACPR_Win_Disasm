@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x3a2459
+size = 0xb38
+name = "__pow_pentium4"
+artifact_type = "Function"
+
+[header]
+name = "__pow_pentium4"
+addr = 0x3a2459
+
+[header.args]

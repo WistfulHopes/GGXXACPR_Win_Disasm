@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xde6a3
+size = 0x214
+name = "getZName"
+artifact_type = "Function"
+
+[header]
+name = "getZName"
+addr = 0xde6a3
+
+[header.args]

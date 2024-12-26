@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2afa30
+size = 0xd3
+name = "af_Unk8"
+artifact_type = "Function"
+
+[header]
+name = "af_Unk8"
+addr = 0x2afa30
+
+[header.args]

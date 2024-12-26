@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x122f20
+size = 0x68
+name = "CmnAct_ThrowDMGFA"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_ThrowDMGFA"
+addr = 0x122f20
+
+[header.args]

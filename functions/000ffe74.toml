@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xffe74
+size = 0x28
+name = "__get_sys_err_msg"
+artifact_type = "Function"
+
+[header]
+name = "__get_sys_err_msg"
+addr = 0xffe74
+
+[header.args]

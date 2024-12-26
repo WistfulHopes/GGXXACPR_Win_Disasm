@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xc8bb3
+size = 0x1c
+name = "FID_conflict:_vprintf_s"
+artifact_type = "Function"
+
+[header]
+name = "FID_conflict:_vprintf_s"
+addr = 0xc8bb3
+
+[header.args]

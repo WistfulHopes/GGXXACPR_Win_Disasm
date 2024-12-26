@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xedfd2
+size = 0x45
+name = "_LStrcoll<unsigned_short>"
+artifact_type = "Function"
+
+[header]
+name = "_LStrcoll<unsigned_short>"
+addr = 0xedfd2
+
+[header.args]

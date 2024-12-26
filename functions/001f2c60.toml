@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1f2c60
+size = 0x99
+name = "CmnAct_JumpDust"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_JumpDust"
+addr = 0x1f2c60
+
+[header.args]

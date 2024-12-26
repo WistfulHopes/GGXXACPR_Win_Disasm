@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd9456
+size = 0x5f
+name = "___TypeMatch"
+artifact_type = "Function"
+
+[header]
+name = "___TypeMatch"
+addr = 0xd9456
+
+[header.args]

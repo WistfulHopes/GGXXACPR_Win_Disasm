@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x26b220
+size = 0x61
+name = "KY_TAUNT"
+artifact_type = "Function"
+
+[header]
+name = "KY_TAUNT"
+addr = 0x26b220
+
+[header.args]

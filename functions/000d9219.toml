@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd9219
+size = 0xbb
+name = "__setargv"
+artifact_type = "Function"
+
+[header]
+name = "__setargv"
+addr = 0xd9219
+
+[header.args]

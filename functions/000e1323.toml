@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe1323
+size = 0x16a
+name = "___crtMessageBoxW"
+artifact_type = "Function"
+
+[header]
+name = "___crtMessageBoxW"
+addr = 0xe1323
+
+[header.args]

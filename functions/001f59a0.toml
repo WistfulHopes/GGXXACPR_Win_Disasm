@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1f59a0
+size = 0x34
+name = "CmnAct_DownBound"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_DownBound"
+addr = 0x1f59a0
+
+[header.args]

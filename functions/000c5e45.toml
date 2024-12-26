@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xc5e45
+size = 0x55
+name = "_iswctype"
+artifact_type = "Function"
+
+[header]
+name = "_iswctype"
+addr = 0xc5e45
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xee6d8
+size = 0x4d
+name = "Putc"
+artifact_type = "Function"
+
+[header]
+name = "Putc"
+addr = 0xee6d8
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2518c0
+size = 0xf9
+name = "SolAct_RiotStampAttack"
+artifact_type = "Function"
+
+[header]
+name = "SolAct_RiotStampAttack"
+addr = 0x2518c0
+
+[header.args]

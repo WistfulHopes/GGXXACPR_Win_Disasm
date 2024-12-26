@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x101075
+size = 0x18c
+name = "__Strftime_l"
+artifact_type = "Function"
+
+[header]
+name = "__Strftime_l"
+addr = 0x101075
+
+[header.args]

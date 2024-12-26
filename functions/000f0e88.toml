@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xf0e88
+size = 0x19
+name = "truename"
+artifact_type = "Function"
+
+[header]
+name = "truename"
+addr = 0xf0e88
+
+[header.args]

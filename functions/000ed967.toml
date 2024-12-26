@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xed967
+size = 0x67
+name = "Ffmt"
+artifact_type = "Function"
+
+[header]
+name = "Ffmt"
+addr = 0xed967
+
+[header.args]

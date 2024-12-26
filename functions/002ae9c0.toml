@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2ae9c0
+size = 0x33
+name = "af_UseParentHeader"
+artifact_type = "Function"
+
+[header]
+name = "af_UseParentHeader"
+addr = 0x2ae9c0
+
+[header.args]

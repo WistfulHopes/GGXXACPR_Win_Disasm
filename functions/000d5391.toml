@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd5391
+size = 0x2d
+name = "__chgsign"
+artifact_type = "Function"
+
+[header]
+name = "__chgsign"
+addr = 0xd5391
+
+[header.args]

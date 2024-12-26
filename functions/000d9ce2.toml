@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd9ce2
+size = 0x173
+name = "___BuildCatchObjectHelper"
+artifact_type = "Function"
+
+[header]
+name = "___BuildCatchObjectHelper"
+addr = 0xd9ce2
+
+[header.args]

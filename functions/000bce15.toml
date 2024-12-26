@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbce15
+size = 0x1fd
+name = "__putenv_helper"
+artifact_type = "Function"
+
+[header]
+name = "__putenv_helper"
+addr = 0xbce15
+
+[header.args]

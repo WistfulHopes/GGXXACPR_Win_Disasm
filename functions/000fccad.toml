@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xfccad
+size = 0x9d
+name = "use_facet<class_std::time_put<char,class_std::ostreambuf_iterator<char,struct_std::char_traits<char>_>_>_>"
+artifact_type = "Function"
+
+[header]
+name = "use_facet<class_std::time_put<char,class_std::ostreambuf_iterator<char,struct_std::char_traits<char>_>_>_>"
+addr = 0xfccad
+
+[header.args]

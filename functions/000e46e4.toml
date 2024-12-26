@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe46e4
+size = 0x1a
+name = "FID_conflict:__wcstoul_l"
+artifact_type = "Function"
+
+[header]
+name = "FID_conflict:__wcstoul_l"
+addr = 0xe46e4
+
+[header.args]

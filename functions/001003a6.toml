@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x1003a6
+size = 0xef
+name = "__Getmonths_l"
+artifact_type = "Function"
+
+[header]
+name = "__Getmonths_l"
+addr = 0x1003a6
+
+[header.args]

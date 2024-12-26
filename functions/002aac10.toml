@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2aac10
+size = 0xfd
+name = "SpawnRipple"
+artifact_type = "Function"
+
+[header]
+name = "SpawnRipple"
+addr = 0x2aac10
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0xf5a9c
+size = 0x49e
+name = "Fput"
+artifact_type = "Function"
+
+[header]
+name = "Fput"
+addr = 0xf5a9c
+
+[header.args]

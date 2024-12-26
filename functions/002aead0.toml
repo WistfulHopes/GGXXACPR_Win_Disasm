@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2aead0
+size = 0x1b
+name = "af_MUTEKI"
+artifact_type = "Function"
+
+[header]
+name = "af_MUTEKI"
+addr = 0x2aead0
+
+[header.args]

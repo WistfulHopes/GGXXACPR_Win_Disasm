@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe39aa
+size = 0x27
+name = "__unlock_fhandle"
+artifact_type = "Function"
+
+[header]
+name = "__unlock_fhandle"
+addr = 0xe39aa
+
+[header.args]

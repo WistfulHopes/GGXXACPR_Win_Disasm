@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd92d4
+size = 0x97
+name = "___crtGetEnvironmentStringsA"
+artifact_type = "Function"
+
+[header]
+name = "___crtGetEnvironmentStringsA"
+addr = 0xd92d4
+
+[header.args]

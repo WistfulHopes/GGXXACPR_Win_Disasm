@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x1144f0
+size = 0x44
+name = "Rq_Fadeout"
+artifact_type = "Function"
+
+[header]
+name = "Rq_Fadeout"
+addr = 0x1144f0
+
+[header.args]

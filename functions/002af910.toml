@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2af910
+size = 0x11b
+name = "SetInstTb"
+artifact_type = "Function"
+
+[header]
+name = "SetInstTb"
+addr = 0x2af910
+
+[header.args]

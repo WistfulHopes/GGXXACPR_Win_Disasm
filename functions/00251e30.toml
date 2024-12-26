@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x251e30
+size = 0xac
+name = "SolAct_Bandit"
+artifact_type = "Function"
+
+[header]
+name = "SolAct_Bandit"
+addr = 0x251e30
+
+[header.args]

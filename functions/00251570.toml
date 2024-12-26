@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x251570
+size = 0xb7
+name = "SolAct_DragonInstall"
+artifact_type = "Function"
+
+[header]
+name = "SolAct_DragonInstall"
+addr = 0x251570
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xe6541
+size = 0xec
+name = "__RoundMan"
+artifact_type = "Function"
+
+[header]
+name = "__RoundMan"
+addr = 0xe6541
+
+[header.args]

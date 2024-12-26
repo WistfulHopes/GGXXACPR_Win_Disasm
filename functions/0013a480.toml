@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x13a480
+size = 0x52
+name = "SkipInstExtInfo"
+artifact_type = "Function"
+
+[header]
+name = "SkipInstExtInfo"
+addr = 0x13a480
+
+[header.args]

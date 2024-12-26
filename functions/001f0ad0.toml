@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1f0ad0
+size = 0x15
+name = "IsDeadCheck"
+artifact_type = "Function"
+
+[header]
+name = "IsDeadCheck"
+addr = 0x1f0ad0
+
+[header.args]

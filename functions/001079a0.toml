@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x1079a0
+size = 0x2a9
+name = "nlSetPaletteData"
+artifact_type = "Function"
+
+[header]
+name = "nlSetPaletteData"
+addr = 0x1079a0
+
+[header.args]

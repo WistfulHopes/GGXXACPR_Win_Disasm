@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xe7dc1
+size = 0x6a7
+name = "___strgtold12_l"
+artifact_type = "Function"
+
+[header]
+name = "___strgtold12_l"
+addr = 0xe7dc1
+
+[header.args]

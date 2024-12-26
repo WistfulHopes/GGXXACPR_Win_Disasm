@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1408c0
+size = 0x1ad
+name = "ComplexRandom"
+artifact_type = "Function"
+
+[header]
+name = "ComplexRandom"
+addr = 0x1408c0
+
+[header.args]

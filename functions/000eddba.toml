@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xeddba
+size = 0x24
+name = "sgetc"
+artifact_type = "Function"
+
+[header]
+name = "sgetc"
+addr = 0xeddba
+
+[header.args]

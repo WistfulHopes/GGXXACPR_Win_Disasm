@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x121b40
+size = 0x99
+name = "CmnAct_DiebyTS2"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_DiebyTS2"
+addr = 0x121b40
+
+[header.args]

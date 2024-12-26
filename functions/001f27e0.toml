@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1f27e0
+size = 0x18d
+name = "CmnAct_SkyDmg_ToDown"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_SkyDmg_ToDown"
+addr = 0x1f27e0
+
+[header.args]

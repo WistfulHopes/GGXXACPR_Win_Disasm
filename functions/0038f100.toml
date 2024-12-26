@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x38f100
+size = 0x110
+name = "CmnDustAttackCheck"
+artifact_type = "Function"
+
+[header]
+name = "CmnDustAttackCheck"
+addr = 0x38f100
+
+[header.args]

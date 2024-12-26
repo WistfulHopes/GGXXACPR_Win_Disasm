@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2aecf0
+size = 0x18
+name = "af_POSBYENEMY"
+artifact_type = "Function"
+
+[header]
+name = "af_POSBYENEMY"
+addr = 0x2aecf0
+
+[header.args]

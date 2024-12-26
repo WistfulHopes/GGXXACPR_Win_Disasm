@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xe77e2
+size = 0x33
+name = "___shl_12"
+artifact_type = "Function"
+
+[header]
+name = "___shl_12"
+addr = 0xe77e2
+
+[header.args]

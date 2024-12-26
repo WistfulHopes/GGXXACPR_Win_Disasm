@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd2a63
+size = 0x9c
+name = "__close_nolock"
+artifact_type = "Function"
+
+[header]
+name = "__close_nolock"
+addr = 0xd2a63
+
+[header.args]

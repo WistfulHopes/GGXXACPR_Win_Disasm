@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331677Z
+addr = 0x10002e
+size = 0x47
+name = "__wfopen_s"
+artifact_type = "Function"
+
+[header]
+name = "__wfopen_s"
+addr = 0x10002e
+
+[header.args]

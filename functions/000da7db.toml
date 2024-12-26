@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xda7db
+size = 0x1a
+name = "__fassign"
+artifact_type = "Function"
+
+[header]
+name = "__fassign"
+addr = 0xda7db
+
+[header.args]

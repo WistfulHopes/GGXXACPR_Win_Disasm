@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x13cff0
+size = 0x33
+name = "IsTrgAndOffPunch"
+artifact_type = "Function"
+
+[header]
+name = "IsTrgAndOffPunch"
+addr = 0x13cff0
+
+[header.args]

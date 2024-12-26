@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd5f47
+size = 0xc3
+name = "__except1"
+artifact_type = "Function"
+
+[header]
+name = "__except1"
+addr = 0xd5f47
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xec483
+size = 0x105
+name = "_Locimp_ctor"
+artifact_type = "Function"
+
+[header]
+name = "_Locimp_ctor"
+addr = 0xec483
+
+[header.args]

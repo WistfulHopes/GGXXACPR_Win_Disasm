@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbc1d6
+size = 0x1f
+name = "__sprintf_s_l"
+artifact_type = "Function"
+
+[header]
+name = "__sprintf_s_l"
+addr = 0xbc1d6
+
+[header.args]

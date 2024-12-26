@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x123f50
+size = 0x8d
+name = "CmnAct_DiebyJY"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_DiebyJY"
+addr = 0x123f50
+
+[header.args]

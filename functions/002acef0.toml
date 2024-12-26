@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2acef0
+size = 0xb8
+name = "RandMove"
+artifact_type = "Function"
+
+[header]
+name = "RandMove"
+addr = 0x2acef0
+
+[header.args]

@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x1f5760
+size = 0x94
+name = "CmnAct_Jump_Vert"
+artifact_type = "Function"
+
+[header]
+name = "CmnAct_Jump_Vert"
+addr = 0x1f5760
+
+[header.args]

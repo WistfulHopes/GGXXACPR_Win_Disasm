@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x22b690
+size = 0x6d7
+name = "ZTED_CommandCheck"
+artifact_type = "Function"
+
+[header]
+name = "ZTED_CommandCheck"
+addr = 0x22b690
+
+[header.args]

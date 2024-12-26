@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xdadf8
+size = 0x20
+name = "__cftoa"
+artifact_type = "Function"
+
+[header]
+name = "__cftoa"
+addr = 0xdadf8
+
+[header.args]

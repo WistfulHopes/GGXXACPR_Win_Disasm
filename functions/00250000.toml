@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x250000
+size = 0x136
+name = "EXSolAct_FBGrandViper"
+artifact_type = "Function"
+
+[header]
+name = "EXSolAct_FBGrandViper"
+addr = 0x250000
+
+[header.args]

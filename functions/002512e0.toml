@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.332678Z
+addr = 0x2512e0
+size = 0x63
+name = "SolAct_WinB"
+artifact_type = "Function"
+
+[header]
+name = "SolAct_WinB"
+addr = 0x2512e0
+
+[header.args]
