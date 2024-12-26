@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xeb5f5
+size = 0x60
+name = "__Getctype"
+artifact_type = "Function"
+
+[header]
+name = "__Getctype"
+addr = 0xeb5f5
+
+[header.args]
