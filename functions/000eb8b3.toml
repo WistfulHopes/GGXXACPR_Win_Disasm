@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xeb8b3
+size = 0x1f
+name = "__Stof"
+artifact_type = "Function"
+
+[header]
+name = "__Stof"
+addr = 0xeb8b3
+
+[header.args]
