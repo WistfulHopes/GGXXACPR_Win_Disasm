@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd6445
+size = 0x1e
+name = "__initp_misc_winsig"
+artifact_type = "Function"
+
+[header]
+name = "__initp_misc_winsig"
+addr = 0xd6445
+
+[header.args]
