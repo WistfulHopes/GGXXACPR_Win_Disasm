@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc32c2
+size = 0x52
+name = "__recalloc_crt"
+artifact_type = "Function"
+
+[header]
+name = "__recalloc_crt"
+addr = 0xc32c2
+
+[header.args]
