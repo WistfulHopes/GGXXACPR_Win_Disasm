@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xc72a6
+size = 0x40
+name = "_calloc"
+artifact_type = "Function"
+
+[header]
+name = "_calloc"
+addr = 0xc72a6
+
+[header.args]
