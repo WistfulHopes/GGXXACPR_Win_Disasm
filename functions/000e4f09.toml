@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe4f09
+size = 0x32
+name = "__set_output_format"
+artifact_type = "Function"
+
+[header]
+name = "__set_output_format"
+addr = 0xe4f09
+
+[header.args]
