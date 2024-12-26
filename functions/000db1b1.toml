@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xdb1b1
+size = 0x28
+name = "__setdefaultprecision"
+artifact_type = "Function"
+
+[header]
+name = "__setdefaultprecision"
+addr = 0xdb1b1
+
+[header.args]
