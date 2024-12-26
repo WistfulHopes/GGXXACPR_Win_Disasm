@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xec969
+size = 0x18
+name = "_Getcoll"
+artifact_type = "Function"
+
+[header]
+name = "_Getcoll"
+addr = 0xec969
+
+[header.args]
