@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbc7c5
+size = 0x12
+name = "__mktime64"
+artifact_type = "Function"
+
+[header]
+name = "__mktime64"
+addr = 0xbc7c5
+
+[header.args]
