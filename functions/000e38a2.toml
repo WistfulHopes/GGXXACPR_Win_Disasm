@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe38a2
+size = 0x69
+name = "__get_osfhandle"
+artifact_type = "Function"
+
+[header]
+name = "__get_osfhandle"
+addr = 0xe38a2
+
+[header.args]
