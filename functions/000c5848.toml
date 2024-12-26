@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc5848
+size = 0x1e5
+name = "__crtLCMapStringA_stat"
+artifact_type = "Function"
+
+[header]
+name = "__crtLCMapStringA_stat"
+addr = 0xc5848
+
+[header.args]
