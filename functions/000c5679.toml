@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc5679
+size = 0x17b
+name = "__mtinit"
+artifact_type = "Function"
+
+[header]
+name = "__mtinit"
+addr = 0xc5679
+
+[header.args]
