@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe2122
+size = 0x27
+name = "_wcschr"
+artifact_type = "Function"
+
+[header]
+name = "_wcschr"
+addr = 0xe2122
+
+[header.args]
