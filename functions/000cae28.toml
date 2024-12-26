@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xcae28
+size = 0x7ff
+name = "__get_lc_time"
+artifact_type = "Function"
+
+[header]
+name = "__get_lc_time"
+addr = 0xcae28
+
+[header.args]
