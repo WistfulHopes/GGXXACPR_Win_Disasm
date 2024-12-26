@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe4ef2
+size = 0x17
+name = "FID_conflict:__atodbl"
+artifact_type = "Function"
+
+[header]
+name = "FID_conflict:__atodbl"
+addr = 0xe4ef2
+
+[header.args]
