@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xeeb70
+size = 0x30
+name = "Peek"
+artifact_type = "Function"
+
+[header]
+name = "Peek"
+addr = 0xeeb70
+
+[header.args]
