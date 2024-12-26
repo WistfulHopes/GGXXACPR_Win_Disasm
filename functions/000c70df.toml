@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xc70df
+size = 0x1e
+name = "__heap_init"
+artifact_type = "Function"
+
+[header]
+name = "__heap_init"
+addr = 0xc70df
+
+[header.args]
