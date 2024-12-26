@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe1c25
+size = 0xea
+name = "__strnicoll_l"
+artifact_type = "Function"
+
+[header]
+name = "__strnicoll_l"
+addr = 0xe1c25
+
+[header.args]
