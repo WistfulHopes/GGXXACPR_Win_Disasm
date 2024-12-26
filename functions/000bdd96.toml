@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbdd96
+size = 0x6a
+name = "___lc_lctostr"
+artifact_type = "Function"
+
+[header]
+name = "___lc_lctostr"
+addr = 0xbdd96
+
+[header.args]
