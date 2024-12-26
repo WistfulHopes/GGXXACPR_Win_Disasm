@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xc98da
+size = 0x12b
+name = "__validate_param_reuseA"
+artifact_type = "Function"
+
+[header]
+name = "__validate_param_reuseA"
+addr = 0xc98da
+
+[header.args]
