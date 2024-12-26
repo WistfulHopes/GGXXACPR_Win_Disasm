@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc43ed
+size = 0x21
+name = "FID_conflict:__set_doserrno"
+artifact_type = "Function"
+
+[header]
+name = "FID_conflict:__set_doserrno"
+addr = 0xc43ed
+
+[header.args]
