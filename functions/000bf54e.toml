@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbf54e
+size = 0xec
+name = "_setvbuf"
+artifact_type = "Function"
+
+[header]
+name = "_setvbuf"
+addr = 0xbf54e
+
+[header.args]
