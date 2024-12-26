@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe1975
+size = 0x26c
+name = "__crtCompareStringA_stat"
+artifact_type = "Function"
+
+[header]
+name = "__crtCompareStringA_stat"
+addr = 0xe1975
+
+[header.args]
