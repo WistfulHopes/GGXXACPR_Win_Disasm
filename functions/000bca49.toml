@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbca49
+size = 0x87
+name = "__getenv_helper_nolock"
+artifact_type = "Function"
+
+[header]
+name = "__getenv_helper_nolock"
+addr = 0xbca49
+
+[header.args]
