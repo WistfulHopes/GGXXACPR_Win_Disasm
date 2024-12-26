@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe47b5
+size = 0x18
+name = "__ismbbkprint"
+artifact_type = "Function"
+
+[header]
+name = "__ismbbkprint"
+addr = 0xe47b5
+
+[header.args]
