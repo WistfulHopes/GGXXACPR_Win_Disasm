@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xea1cb
+size = 0x75
+name = "__lseek_nolock"
+artifact_type = "Function"
+
+[header]
+name = "__lseek_nolock"
+addr = 0xea1cb
+
+[header.args]
