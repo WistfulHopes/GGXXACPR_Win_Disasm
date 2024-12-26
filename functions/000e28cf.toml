@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe28cf
+size = 0x2a
+name = "__itoa_s"
+artifact_type = "Function"
+
+[header]
+name = "__itoa_s"
+addr = 0xe28cf
+
+[header.args]
