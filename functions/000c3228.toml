@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc3228
+size = 0x4c
+name = "__calloc_crt"
+artifact_type = "Function"
+
+[header]
+name = "__calloc_crt"
+addr = 0xc3228
+
+[header.args]
