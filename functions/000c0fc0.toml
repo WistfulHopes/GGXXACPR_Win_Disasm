@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc0fc0
+size = 0x35
+name = "__callthreadstartex"
+artifact_type = "Function"
+
+[header]
+name = "__callthreadstartex"
+addr = 0xc0fc0
+
+[header.args]
