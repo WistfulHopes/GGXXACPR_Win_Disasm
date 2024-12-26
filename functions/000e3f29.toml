@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe3f29
+size = 0x1b8
+name = "__ungetwc_nolock"
+artifact_type = "Function"
+
+[header]
+name = "__ungetwc_nolock"
+addr = 0xe3f29
+
+[header.args]
