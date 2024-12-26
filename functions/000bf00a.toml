@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbf00a
+size = 0x9c
+name = "__fseeki64_nolock"
+artifact_type = "Function"
+
+[header]
+name = "__fseeki64_nolock"
+addr = 0xbf00a
+
+[header.args]
