@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe4b50
+size = 0x2d
+name = "_strrchr"
+artifact_type = "Function"
+
+[header]
+name = "_strrchr"
+addr = 0xe4b50
+
+[header.args]
