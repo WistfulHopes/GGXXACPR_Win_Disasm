@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe2bd0
+size = 0x2e
+name = "_islower"
+artifact_type = "Function"
+
+[header]
+name = "_islower"
+addr = 0xe2bd0
+
+[header.args]
