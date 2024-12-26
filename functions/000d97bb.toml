@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd97bb
+size = 0x13e
+name = "___CxxUnregisterExceptionObject"
+artifact_type = "Function"
+
+[header]
+name = "___CxxUnregisterExceptionObject"
+addr = 0xd97bb
+
+[header.args]
