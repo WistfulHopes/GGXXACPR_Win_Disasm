@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe381c
+size = 0x86
+name = "__free_osfhnd"
+artifact_type = "Function"
+
+[header]
+name = "__free_osfhnd"
+addr = 0xe381c
+
+[header.args]
