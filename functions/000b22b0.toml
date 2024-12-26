@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xb22b0
+size = 0x1d
+name = "AmGetLastErrorToHResult"
+artifact_type = "Function"
+
+[header]
+name = "AmGetLastErrorToHResult"
+addr = 0xb22b0
+
+[header.args]
