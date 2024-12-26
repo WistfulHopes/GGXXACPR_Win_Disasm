@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd5b63
+size = 0x23
+name = "__raise_excf"
+artifact_type = "Function"
+
+[header]
+name = "__raise_excf"
+addr = 0xd5b63
+
+[header.args]
