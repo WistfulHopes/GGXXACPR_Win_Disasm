@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xeb208
+size = 0x55
+name = "_Addstd"
+artifact_type = "Function"
+
+[header]
+name = "_Addstd"
+addr = 0xeb208
+
+[header.args]
