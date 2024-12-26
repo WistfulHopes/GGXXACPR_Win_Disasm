@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe155c
+size = 0x3f
+name = "__set_error_mode"
+artifact_type = "Function"
+
+[header]
+name = "__set_error_mode"
+addr = 0xe155c
+
+[header.args]
