@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xdeba3
+size = 0xcba
+name = "composeDeclaration"
+artifact_type = "Function"
+
+[header]
+name = "composeDeclaration"
+addr = 0xdeba3
+
+[header.args]
