@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbdf66
+size = 0x21f
+name = "__expandlocale"
+artifact_type = "Function"
+
+[header]
+name = "__expandlocale"
+addr = 0xbdf66
+
+[header.args]
