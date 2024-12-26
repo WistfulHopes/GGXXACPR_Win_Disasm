@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe5140
+size = 0xdf
+name = "__alldvrm"
+artifact_type = "Function"
+
+[header]
+name = "__alldvrm"
+addr = 0xe5140
+
+[header.args]
