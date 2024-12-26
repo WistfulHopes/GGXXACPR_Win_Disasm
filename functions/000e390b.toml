@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe390b
+size = 0x91
+name = "___lock_fhandle"
+artifact_type = "Function"
+
+[header]
+name = "___lock_fhandle"
+addr = 0xe390b
+
+[header.args]
