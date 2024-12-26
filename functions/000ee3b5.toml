@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xee3b5
+size = 0x40
+name = "sputc"
+artifact_type = "Function"
+
+[header]
+name = "sputc"
+addr = 0xee3b5
+
+[header.args]
