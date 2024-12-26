@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe1957
+size = 0x1e
+name = "strncnt"
+artifact_type = "Function"
+
+[header]
+name = "strncnt"
+addr = 0xe1957
+
+[header.args]
