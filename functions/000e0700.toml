@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe0700
+size = 0x13f
+name = "operator_char*"
+artifact_type = "Function"
+
+[header]
+name = "operator_char*"
+addr = 0xe0700
+
+[header.args]
