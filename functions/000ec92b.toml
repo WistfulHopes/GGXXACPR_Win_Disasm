@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xec92b
+size = 0x10
+name = "__Mtxunlock"
+artifact_type = "Function"
+
+[header]
+name = "__Mtxunlock"
+addr = 0xec92b
+
+[header.args]
