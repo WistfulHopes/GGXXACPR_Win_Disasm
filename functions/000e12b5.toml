@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe12b5
+size = 0x6e
+name = "__recalloc"
+artifact_type = "Function"
+
+[header]
+name = "__recalloc"
+addr = 0xe12b5
+
+[header.args]
