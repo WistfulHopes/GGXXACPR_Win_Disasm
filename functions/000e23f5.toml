@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe23f5
+size = 0x66
+name = "_fputwc"
+artifact_type = "Function"
+
+[header]
+name = "_fputwc"
+addr = 0xe23f5
+
+[header.args]
