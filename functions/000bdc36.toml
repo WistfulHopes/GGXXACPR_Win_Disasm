@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbdc36
+size = 0x40
+name = "__strcats"
+artifact_type = "Function"
+
+[header]
+name = "__strcats"
+addr = 0xbdc36
+
+[header.args]
