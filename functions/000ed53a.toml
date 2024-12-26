@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xed53a
+size = 0x17
+name = "do_tolower"
+artifact_type = "Function"
+
+[header]
+name = "do_tolower"
+addr = 0xed53a
+
+[header.args]
