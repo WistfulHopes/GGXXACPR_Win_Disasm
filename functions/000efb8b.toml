@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xefb8b
+size = 0x19
+name = "negative_sign"
+artifact_type = "Function"
+
+[header]
+name = "negative_sign"
+addr = 0xefb8b
+
+[header.args]
