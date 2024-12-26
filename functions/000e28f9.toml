@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe28f9
+size = 0x27
+name = "__ltoa_s"
+artifact_type = "Function"
+
+[header]
+name = "__ltoa_s"
+addr = 0xe28f9
+
+[header.args]
