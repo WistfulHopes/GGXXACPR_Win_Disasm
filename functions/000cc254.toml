@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xcc254
+size = 0x31
+name = "_LcidFromHexString"
+artifact_type = "Function"
+
+[header]
+name = "_LcidFromHexString"
+addr = 0xcc254
+
+[header.args]
