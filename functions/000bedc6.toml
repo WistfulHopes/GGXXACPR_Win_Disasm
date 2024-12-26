@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbedc6
+size = 0x32
+name = "__lock_file2"
+artifact_type = "Function"
+
+[header]
+name = "__lock_file2"
+addr = 0xbedc6
+
+[header.args]
