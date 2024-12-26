@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc4a91
+size = 0x98
+name = "___updatetmbcinfo"
+artifact_type = "Function"
+
+[header]
+name = "___updatetmbcinfo"
+addr = 0xc4a91
+
+[header.args]
