@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbefaf
+size = 0x5b
+name = "_fgetpos"
+artifact_type = "Function"
+
+[header]
+name = "_fgetpos"
+addr = 0xbefaf
+
+[header.args]
