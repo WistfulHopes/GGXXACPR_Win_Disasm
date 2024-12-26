@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd6a37
+size = 0x26
+name = "__RTC_Initialize"
+artifact_type = "Function"
+
+[header]
+name = "__RTC_Initialize"
+addr = 0xd6a37
+
+[header.args]
