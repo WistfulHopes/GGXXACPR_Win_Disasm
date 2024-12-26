@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbd0c7
+size = 0x9f
+name = "__swprintf"
+artifact_type = "Function"
+
+[header]
+name = "__swprintf"
+addr = 0xbd0c7
+
+[header.args]
