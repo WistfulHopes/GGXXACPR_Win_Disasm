@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc2afb
+size = 0x2c
+name = "terminate"
+artifact_type = "Function"
+
+[header]
+name = "terminate"
+addr = 0xc2afb
+
+[header.args]
