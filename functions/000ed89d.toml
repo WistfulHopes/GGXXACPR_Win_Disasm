@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xed89d
+size = 0x57
+name = "Hexdig"
+artifact_type = "Function"
+
+[header]
+name = "Hexdig"
+addr = 0xed89d
+
+[header.args]
