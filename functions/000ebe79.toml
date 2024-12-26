@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xebe79
+size = 0x41
+name = "sbfun"
+artifact_type = "Function"
+
+[header]
+name = "sbfun"
+addr = 0xebe79
+
+[header.args]
