@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbb006
+size = 0x14
+name = "_name_internal_method"
+artifact_type = "Function"
+
+[header]
+name = "_name_internal_method"
+addr = 0xbb006
+
+[header.args]
