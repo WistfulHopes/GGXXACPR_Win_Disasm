@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xda687
+size = 0x74
+name = "__forcdecpt_l"
+artifact_type = "Function"
+
+[header]
+name = "__forcdecpt_l"
+addr = 0xda687
+
+[header.args]
