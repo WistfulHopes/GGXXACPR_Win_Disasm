@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xe8569
+size = 0x8f6
+name = "_$I10_OUTPUT"
+artifact_type = "Function"
+
+[header]
+name = "_$I10_OUTPUT"
+addr = 0xe8569
+
+[header.args]
