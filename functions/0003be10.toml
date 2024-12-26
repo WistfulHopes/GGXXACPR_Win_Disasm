@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0x3be10
+size = 0x24
+name = "collate<>"
+artifact_type = "Function"
+
+[header]
+name = "collate<>"
+addr = 0x3be10
+
+[header.args]
