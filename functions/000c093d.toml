@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc093d
+size = 0x97
+name = "__cinit"
+artifact_type = "Function"
+
+[header]
+name = "__cinit"
+addr = 0xc093d
+
+[header.args]
