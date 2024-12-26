@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xbe7dd
+size = 0x14c
+name = "_setlocale"
+artifact_type = "Function"
+
+[header]
+name = "_setlocale"
+addr = 0xbe7dd
+
+[header.args]
