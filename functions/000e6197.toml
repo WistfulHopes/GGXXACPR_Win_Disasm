@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xe6197
+size = 0x130
+name = "__filwbuf"
+artifact_type = "Function"
+
+[header]
+name = "__filwbuf"
+addr = 0xe6197
+
+[header.args]
