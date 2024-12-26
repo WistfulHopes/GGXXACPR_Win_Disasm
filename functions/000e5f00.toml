@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xe5f00
+size = 0x1a
+name = "__mbsnbcmp"
+artifact_type = "Function"
+
+[header]
+name = "__mbsnbcmp"
+addr = 0xe5f00
+
+[header.args]
