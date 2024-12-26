@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe1762
+size = 0x155
+name = "__wctomb_s_l"
+artifact_type = "Function"
+
+[header]
+name = "__wctomb_s_l"
+addr = 0xe1762
+
+[header.args]
