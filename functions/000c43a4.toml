@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.329170Z
+addr = 0xc43a4
+size = 0x13
+name = "__errno"
+artifact_type = "Function"
+
+[header]
+name = "__errno"
+addr = 0xc43a4
+
+[header.args]
