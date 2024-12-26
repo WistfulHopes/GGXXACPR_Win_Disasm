@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xc720f
+size = 0x97
+name = "___wtomb_environ"
+artifact_type = "Function"
+
+[header]
+name = "___wtomb_environ"
+addr = 0xc720f
+
+[header.args]
