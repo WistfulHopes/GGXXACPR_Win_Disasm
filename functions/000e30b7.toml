@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xe30b7
+size = 0x5b7
+name = "__read_nolock"
+artifact_type = "Function"
+
+[header]
+name = "__read_nolock"
+addr = 0xe30b7
+
+[header.args]
