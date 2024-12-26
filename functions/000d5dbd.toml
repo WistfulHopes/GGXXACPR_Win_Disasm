@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd5dbd
+size = 0x34
+name = "__errcode"
+artifact_type = "Function"
+
+[header]
+name = "__errcode"
+addr = 0xd5dbd
+
+[header.args]
