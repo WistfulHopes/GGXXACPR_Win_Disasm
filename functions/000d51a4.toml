@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd51a4
+size = 0x2d
+name = "__set_exp"
+artifact_type = "Function"
+
+[header]
+name = "__set_exp"
+addr = 0xd51a4
+
+[header.args]
