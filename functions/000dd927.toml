@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xdd927
+size = 0x52
+name = "getSignedDimension"
+artifact_type = "Function"
+
+[header]
+name = "getSignedDimension"
+addr = 0xdd927
+
+[header.args]
