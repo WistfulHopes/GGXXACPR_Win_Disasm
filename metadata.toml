@@ -3,4 +3,4 @@ version = "5.2.0"
 last_push_time = 2024-12-26T03:09:09.758152Z
 last_push_artifact = -1
 last_push_artifact_type = -1
-last_commit_msg = "Merged in <Function: None getVbTableType(args=0); @0xddd50 vars=0 len=0x17> from theso"
+last_commit_msg = "Merged in <Function: None getTemplateArgumentList(args=0); @0xddd67 vars=0 len=0x20d> from theso"
