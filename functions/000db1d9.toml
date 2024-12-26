@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xdb1d9
+size = 0xb7
+name = "__VEC_memzero"
+artifact_type = "Function"
+
+[header]
+name = "__VEC_memzero"
+addr = 0xdb1d9
+
+[header.args]
