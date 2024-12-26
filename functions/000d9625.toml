@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.330171Z
+addr = 0xd9625
+size = 0x43
+name = "___DestructExceptionObject"
+artifact_type = "Function"
+
+[header]
+name = "___DestructExceptionObject"
+addr = 0xd9625
+
+[header.args]
