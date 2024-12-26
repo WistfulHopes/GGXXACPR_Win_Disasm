@@ -1,0 +1,11 @@
+last_change = 2024-12-26T02:50:09.331169Z
+addr = 0xefb59
+size = 0x19
+name = "curr_symbol"
+artifact_type = "Function"
+
+[header]
+name = "curr_symbol"
+addr = 0xefb59
+
+[header.args]
